@@ -1,2 +1,2 @@
-# SRB
-Website for Sex Ratio at Birth paper
+# Observable Variations in Human Sex Ratio at Birth
+
