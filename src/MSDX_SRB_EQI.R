@@ -11,7 +11,7 @@ num <- as.numeric(args[1]) # 1 - 125
 reps <- as.numeric(args[2]) # default 10
 
 # Base directory
-namebase <- "."
+namebase <- "data/"
 
 # File I/O
 ## Load data and change column data types
