@@ -1,0 +1,1332 @@
+Gammal kod	Gammalt namn	Ny kod	Nytt namn	Hel/Del	Datum ikraftträdande	Ändringstyp	Ändring
+0102	Väddö	0188	Norrtälje	Hel	1971-01-01	10	Upphör; till befintlig
+0103	Häverö	0188	Norrtälje	Hel	1971-01-01	10	Upphör; till befintlig
+0104	Knutby	0188	Norrtälje	Del	1971-01-01	10	Upphör; till befintlig
+0104	Knutby	0380	Uppsala	Del	1971-01-01	10	Upphör; till befintlig
+0105	Almunge	0380	Uppsala	Hel	1971-01-01	10	Upphör; till befintlig
+0106	Rimbo	0188	Norrtälje	Hel	1971-01-01	10	Upphör; till befintlig
+0107	Lyhundra	0188	Norrtälje	Hel	1971-01-01	10	Upphör; till befintlig
+0108	Frötuna	0188	Norrtälje	Hel	1971-01-01	10	Upphör; till befintlig
+0109	Blidö	0188	Norrtälje	Hel	1971-01-01	10	Upphör; till befintlig
+0110	Roslags-Länna	0188	Norrtälje	Hel	1971-01-01	10	Upphör; till befintlig
+0111	Knivsta	0380	Uppsala	Hel	1971-01-01	10	Upphör; till befintlig
+0113	Märsta	0191	Sigtuna	Hel	1971-01-01	10	Upphör; till befintlig
+0114	Upplands-Väsby	0114	Upplands Väsby	Hel	2002-09-19	40	Namnändrad (ej kodändrad)
+0115	Vallentuna	0115	Vallentuna	Hel	1971-01-01	15	Utvidgas
+0115	Vallentuna	0191	Sigtuna	Del	2013-01-01	14	Ger del/delar till befintlig
+0116	Össeby	0115	Vallentuna	Hel	1971-01-01	10	Upphör; till befintlig
+0117	Österåker	0187	Vaxholm	Hel	1974-01-01	10	Upphör; till befintlig
+0119	Djurö	0120	Värmdö	Hel	1974-01-01	10	Upphör; till befintlig
+0120	Värmdö	0120	Värmdö	Hel	1974-01-01	15	Utvidgas
+0121	Gustavsberg	0120	Värmdö	Hel	1974-01-01	10	Upphör; till befintlig
+0122	Boo	0182	Nacka	Hel	1971-01-01	10	Upphör; till befintlig
+0124	Färingsö	0125	Ekerö	Hel	1971-01-01	10	Upphör; till befintlig
+0125	Ekerö	0125	Ekerö	Hel	1971-01-01	15	Utvidgas
+0127	Botkyrka	0127	Botkyrka	Hel	1971-01-01	15	Utvidgas
+0127	Botkyrka	0127	Botkyrka	Hel	1974-01-01	15	Utvidgas
+0127	Botkyrka	0128	Salem	Del	1983-01-01	12	Ger del till nybildad
+0128	Salem	0127	Botkyrka	Hel	1974-01-01	10	Upphör; till befintlig
+0129	Grödinge	0127	Botkyrka	Hel	1971-01-01	10	Upphör; till befintlig
+0131	Turinge	0181	Södertälje	Hel	1971-01-01	10	Upphör; till befintlig
+0132	Järna	0181	Södertälje	Hel	1971-01-01	10	Upphör; till befintlig
+0133	Sorunda	0192	Nynäshamn	Hel	1974-01-01	10	Upphör; till befintlig
+0134	Ösmo	0192	Nynäshamn	Hel	1974-01-01	10	Upphör; till befintlig
+0135	Västerhaninge	0136	Haninge	Hel	1971-01-01	10	Upphör; till befintlig
+0136	Österhaninge	0136	Haninge	Hel	1971-01-01	16	Utvidgas och namnändras
+0162	Danderyd	0162	Danderyd	Hel	1971-01-01	15	Utvidgas
+0164	Saltsjöbaden	0182	Nacka	Hel	1971-01-01	10	Upphör; till befintlig
+0181	Södertälje	0181	Södertälje	Hel	1971-01-01	15	Utvidgas
+0181	Södertälje	0140	Nykvarn	Del	1999-01-01	12	Ger del till nybildad
+0182	Nacka	0182	Nacka	Hel	1971-01-01	15	Utvidgas
+0185	Djursholm	0162	Danderyd	Hel	1971-01-01	10	Upphör; till befintlig
+0186	Lidingö	0186	Lidingö	Hel	2011-01-01	15	Utvidgas
+0187	Vaxholm	0187	Vaxholm	Hel	1974-01-01	15	Utvidgas
+0187	Vaxholm	0117	Österåker	Del	1983-01-01	12	Ger del till nybildad
+0187	Vaxholm	0186	Lidingö	Del	2011-01-01	14	Ger del/delar till befintlig
+0188	Norrtälje	0188	Norrtälje	Hel	1971-01-01	15	Utvidgas
+0189	Östhammar	0382	Östhammar	Hel	1971-01-01	20	Kodändrad; ny länstillhörighet
+0191	Sigtuna	0191	Sigtuna	Hel	1971-01-01	15	Utvidgas
+0191	Sigtuna	0191	Sigtuna	Hel	2013-01-01	15	Utvidgas
+0192	Nynäshamn	0192	Nynäshamn	Hel	1974-01-01	15	Utvidgas
+0201	Frösåker	0289	Östhammar	Hel	1957-01-01	10	Upphör; till befintlig
+0202	Väddö	0102	Väddö	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0203	Häverö	0103	Häverö	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0204	Knutby	0104	Knutby	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0205	Almunge	0105	Almunge	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0206	Sjuhundra	0206	Rimbo	Hel	1967-01-01	16	Utvidgas och namnändras
+0206	Rimbo	0106	Rimbo	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0207	Lyhundra	0107	Lyhundra	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0208	Frötuna	0108	Frötuna	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0209	Blidö	0109	Blidö	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0210	Roslags-Länna	0110	Roslags-Länna	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0211	Knivsta	0211	Knivsta	Hel	1967-01-01	15	Utvidgas
+0211	Knivsta	0111	Knivsta	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0212	Skepptuna	0206	Rimbo	Del	1967-01-01	10	Upphör; till befintlig
+0212	Skepptuna	0211	Knivsta	Del	1967-01-01	10	Upphör; till befintlig
+0212	Skepptuna	0213	Märsta	Del	1967-01-01	10	Upphör; till befintlig
+0213	Märsta	0213	Märsta	Hel	1967-01-01	15	Utvidgas
+0213	Märsta	0113	Märsta	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0214	Upplands-Väsby	0114	Upplands-Väsby	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0215	Vallentuna	0115	Vallentuna	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0216	Össeby	0116	Össeby	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0217	Österåker	0217	Österåker	Hel	1967-01-01	15	Utvidgas
+0217	Österåker	0117	Österåker	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0218	Ljusterö	0217	Österåker	Hel	1967-01-01	10	Upphör; till befintlig
+0219	Djurö	0119	Djurö	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0220	Värmdö	0120	Värmdö	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0221	Gustavsberg	0121	Gustavsberg	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0222	Boo	0122	Boo	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0223	Järfälla	0123	Järfälla	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0224	Färingsö	0124	Färingsö	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0225	Ekerö	0125	Ekerö	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0226	Huddinge	0126	Huddinge	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0227	Botkyrka	0127	Botkyrka	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0228	Salem	0128	Salem	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0229	Grödinge	0129	Grödinge	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0230	Östertälje	0281	Södertälje	Hel	1963-01-01	10	Upphör; till befintlig
+0231	Turinge	0131	Turinge	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0232	Järna	0132	Järna	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0233	Sorunda	0133	Sorunda	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0234	Ösmo	0134	Ösmo	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0235	Västerhaninge	0135	Västerhaninge	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0236	Österhaninge	0236	Österhaninge	Hel	1959-01-01	15	Utvidgas
+0236	Österhaninge	0136	Österhaninge	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0237	Dalarö	0236	Österhaninge	Hel	1959-01-01	10	Upphör; till befintlig
+0238	Tyresö	0138	Tyresö	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0260	Täby	0160	Täby	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0261	Stocksund	0285	Djursholm	Hel	1967-01-01	10	Upphör; till befintlig
+0262	Danderyd	0162	Danderyd	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0263	Sollentuna	0163	Sollentuna	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0264	Saltsjöbaden	0164	Saltsjöbaden	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0280	Nynäshamn	0192	Nynäshamn	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0281	Södertälje	0281	Södertälje	Hel	1963-01-01	15	Utvidgas
+0281	Södertälje	0281	Södertälje	Hel	1967-01-01	15	Utvidgas
+0281	Södertälje	0181	Södertälje	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0282	Nacka	0182	Nacka	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0283	Sundbyberg	0183	Sundbyberg	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0284	Solna	0184	Solna	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0285	Djursholm	0285	Djursholm	Hel	1967-01-01	15	Utvidgas
+0285	Djursholm	0185	Djursholm	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0286	Lidingö	0186	Lidingö	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0287	Vaxholm	0187	Vaxholm	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0288	Norrtälje	0188	Norrtälje	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0289	Östhammar	0289	Östhammar	Hel	1957-01-01	15	Utvidgas
+0289	Östhammar	0289	Östhammar	Hel	1967-01-01	15	Utvidgas
+0289	Östhammar	0189	Östhammar	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0290	Öregrund	0289	Östhammar	Hel	1967-01-01	10	Upphör; till befintlig
+0291	Sigtuna	0191	Sigtuna	Hel	1968-01-01	23	Kodändrad; annat än 20-22
+0301	Åsunda	0381	Enköping	Hel	1971-01-01	10	Upphör; till befintlig
+0302	Södra Trögd	0381	Enköping	Hel	1971-01-01	10	Upphör; till befintlig
+0303	Norra Trögd	0381	Enköping	Hel	1971-01-01	10	Upphör; till befintlig
+0304	Upplands-Bro	0139	Upplands-Bro	Hel	1971-01-01	20	Kodändrad; ny länstillhörighet
+0306	Lagunda	0381	Enköping	Hel	1971-01-01	10	Upphör; till befintlig
+0307	Södra Hagunda	0380	Uppsala	Hel	1967-01-01	10	Upphör; till befintlig
+0308	Norra Hagunda	0380	Uppsala	Hel	1971-01-01	10	Upphör; till befintlig
+0309	Bälinge	0380	Uppsala	Hel	1971-01-01	10	Upphör; till befintlig
+0310	Vaksala	0380	Uppsala	Hel	1967-01-01	10	Upphör; till befintlig
+0311	Rasbo	0312	Oland	Hel	1967-01-01	10	Upphör; till befintlig
+0312	Oland	0312	Oland	Hel	1967-01-01	15	Utvidgas
+0312	Oland	0380	Uppsala	Del	1974-01-01	10	Upphör; till befintlig
+0312	Oland	0382	Östhammar	Del	1974-01-01	10	Upphör; till befintlig
+0313	Dannemora	0382	Östhammar	Hel	1974-01-01	10	Upphör; till befintlig
+0314	Vattholma	0380	Uppsala	Hel	1971-01-01	10	Upphör; till befintlig
+0315	Björklinge	0380	Uppsala	Hel	1971-01-01	10	Upphör; till befintlig
+0316	Vendel	0360	Tierp	Hel	1974-01-01	10	Upphör; till befintlig
+0317	Tierps landskommun	0317	Tierpsbygden	Hel	1971-01-01	40	Namnändrad (ej kodändrad)
+0317	Tierpsbygden	0360	Tierp	Hel	1974-01-01	10	Upphör; till befintlig
+0318	Söderfors	0360	Tierp	Hel	1974-01-01	10	Upphör; till befintlig
+0320	Västland	0360	Tierp	Hel	1974-01-01	10	Upphör; till befintlig
+0321	Österlövsta	0360	Tierp	Hel	1974-01-01	10	Upphör; till befintlig
+0322	Hållnäs	0360	Tierp	Hel	1974-01-01	10	Upphör; till befintlig
+0360	Tierp	0360	Tierp	Hel	1974-01-01	15	Utvidgas
+0380	Uppsala	0380	Uppsala	Hel	1967-01-01	15	Utvidgas
+0380	Uppsala	0380	Uppsala	Hel	1971-01-01	15	Utvidgas
+0380	Uppsala	0380	Uppsala	Hel	1974-01-01	15	Utvidgas
+0380	Uppsala	0330	Knivsta	Del	2003-01-01	12	Ger del till nybildad
+0381	Enköping	0381	Enköping	Hel	1971-01-01	15	Utvidgas
+0382	Östhammar	0382	Östhammar	Hel	1974-01-01	15	Utvidgas
+0382		0382	Östhammar	Hel	1971-01-01	15	Utvidgas
+0401	Tunaberg	0480	Nyköping	Hel	1971-01-01	10	Upphör; till befintlig
+0402	Jönåker	0480	Nyköping	Hel	1971-01-01	10	Upphör; till befintlig
+0403	Björkvik	0483	Katrineholm	Hel	1971-01-01	10	Upphör; till befintlig
+0404	Stigtomta	0480	Nyköping	Hel	1971-01-01	10	Upphör; till befintlig
+0405	Rönö	0480	Nyköping	Hel	1971-01-01	10	Upphör; till befintlig
+0406	Svärta	0480	Nyköping	Hel	1967-01-01	10	Upphör; till befintlig
+0407	Tystberga	0480	Nyköping	Hel	1971-01-01	10	Upphör; till befintlig
+0408	Vagnhärad	0480	Nyköping	Hel	1974-01-01	10	Upphör; till befintlig
+0409	Hölö	0181	Södertälje	Hel	1971-01-01	10	Upphör; till befintlig
+0410	Gnesta	0461	Gnesta	Hel	1955-01-01	23	Kodändrad; annat än 20-22
+0411	Daga	0480	Nyköping	Hel	1974-01-01	10	Upphör; till befintlig
+0412	Åker	0486	Strängnäs	Hel	1971-01-01	10	Upphör; till befintlig
+0413	Enhörna	0281	Södertälje	Hel	1967-01-01	10	Upphör; till befintlig
+0414	Stallarholmen	0486	Strängnäs	Hel	1971-01-01	10	Upphör; till befintlig
+0415	Tosterö	0486	Strängnäs	Hel	1971-01-01	10	Upphör; till befintlig
+0416	Vårfruberga	0486	Strängnäs	Hel	1971-01-01	10	Upphör; till befintlig
+0417	Kafjärden	0484	Eskilstuna	Hel	1971-01-01	10	Upphör; till befintlig
+0418	Hällby	0484	Eskilstuna	Hel	1971-01-01	10	Upphör; till befintlig
+0419	Västra Rekarne	0484	Eskilstuna	Hel	1971-01-01	10	Upphör; till befintlig
+0420	Husby-Rekarne	0484	Eskilstuna	Hel	1971-01-01	10	Upphör; till befintlig
+0421	Ärla	0484	Eskilstuna	Hel	1971-01-01	10	Upphör; till befintlig
+0422	Mellösa	0482	Flen	Hel	1971-01-01	10	Upphör; till befintlig
+0423	Sparreholm	0482	Flen	Hel	1965-01-01	10	Upphör; till befintlig
+0424	Bettna	0480	Nyköping	Del	1971-01-01	10	Upphör; till befintlig
+0424	Bettna	0482	Flen	Del	1971-01-01	10	Upphör; till befintlig
+0425	Sköldinge	0483	Katrineholm	Hel	1971-01-01	10	Upphör; till befintlig
+0426	Floda	0483	Katrineholm	Hel	1971-01-01	10	Upphör; till befintlig
+0427	Stora Malm	0483	Katrineholm	Hel	1971-01-01	10	Upphör; till befintlig
+0428	Västra Vingåker	0428	Vingåker	Hel	1963-01-01	40	Namnändrad (ej kodändrad)
+0428	Vingåker	0428	Vingåker	Hel	1971-01-01	15	Utvidgas
+0429	Julita	0428	Vingåker	Del	1971-01-01	10	Upphör; till befintlig
+0429	Julita	0483	Katrineholm	Del	1971-01-01	10	Upphör; till befintlig
+0460	Malmköping	0482	Flen	Hel	1971-01-01	10	Upphör; till befintlig
+0461	Gnesta	0480	Nyköping	Hel	1974-01-01	10	Upphör; till befintlig
+0480	Nyköping	0480	Nyköping	Hel	1967-01-01	15	Utvidgas
+0480	Nyköping	0480	Nyköping	Hel	1971-01-01	15	Utvidgas
+0480	Nyköping	0480	Nyköping	Hel	1974-01-01	15	Utvidgas
+0480	Nyköping	0461	Gnesta	Del	1992-01-01	13	Ger delar till nybildade
+0480	Nyköping	0488	Trosa	Del	1992-01-01	13	Ger delar till nybildade
+0482	Flen	0482	Flen	Hel	1965-01-01	15	Utvidgas
+0482	Flen	0482	Flen	Hel	1971-01-01	15	Utvidgas
+0483	Katrineholm	0483	Katrineholm	Hel	1971-01-01	15	Utvidgas
+0484	Eskilstuna	0484	Eskilstuna	Hel	1971-01-01	15	Utvidgas
+0485	Torshälla	0484	Eskilstuna	Hel	1971-01-01	10	Upphör; till befintlig
+0486	Strängnäs	0486	Strängnäs	Hel	1971-01-01	15	Utvidgas
+0487	Mariefred	0181	Södertälje	Del	1971-01-01	10	Upphör; till befintlig
+0487	Mariefred	0486	Strängnäs	Del	1971-01-01	10	Upphör; till befintlig
+0488	Trosa	0480	Nyköping	Hel	1974-01-01	10	Upphör; till befintlig
+0501	Godegård	0583	Motala	Hel	1971-01-01	10	Upphör; till befintlig
+0502	Tjällmo	0583	Motala	Hel	1974-01-01	10	Upphör; till befintlig
+0503	Borensberg	0583	Motala	Hel	1971-01-01	10	Upphör; till befintlig
+0504	Boberg	0583	Motala	Del	1971-01-01	10	Upphör; till befintlig
+0504	Boberg	0586	Mjölby	Del	1971-01-01	10	Upphör; till befintlig
+0505	Aska	0583	Motala	Hel	1974-01-01	10	Upphör; till befintlig
+0506	Östgöta-Dal	0584	Vadstena	Hel	1967-01-01	10	Upphör; till befintlig
+0507	Folkunga	0560	Boxholm	Del	1971-01-01	10	Upphör; till befintlig
+0507	Folkunga	0584	Vadstena	Del	1971-01-01	10	Upphör; till befintlig
+0507	Folkunga	0586	Mjölby	Del	1971-01-01	10	Upphör; till befintlig
+0508	Alvastra	0509	Ödeshög	Hel	1969-01-01	10	Upphör; till befintlig
+0509	Ödeshög	0509	Ödeshög	Hel	1969-01-01	15	Utvidgas
+0510	Södra Göstring	0560	Boxholm	Hel	1971-01-01	10	Upphör; till befintlig
+0511	Vifolka	0586	Mjölby	Hel	1971-01-01	10	Upphör; till befintlig
+0513	Västra Kinda	0513	Kinda	Hel	1974-01-01	16	Utvidgas och namnändras
+0514	Södra Kinda	0513	Kinda	Hel	1974-01-01	10	Upphör; till befintlig
+0515	Norra Kinda	0513	Kinda	Hel	1974-01-01	10	Upphör; till befintlig
+0516	Björsäter	0561	Åtvidaberg	Hel	1971-01-01	10	Upphör; till befintlig
+0517	Askeby	0524	Åkerbo	Hel	1961-01-01	10	Upphör; till befintlig
+0518	Landeryd	0580	Linköping	Hel	1963-01-01	10	Upphör; till befintlig
+0519	Vårdnäs	0580	Linköping	Hel	1971-01-01	10	Upphör; till befintlig
+0520	Södra Valkebo	0580	Linköping	Hel	1971-01-01	10	Upphör; till befintlig
+0521	Norra Valkebo	0580	Linköping	Hel	1971-01-01	10	Upphör; till befintlig
+0522	Kärna	0580	Linköping	Hel	1967-01-01	10	Upphör; till befintlig
+0523	Vreta kloster	0580	Linköping	Hel	1971-01-01	10	Upphör; till befintlig
+0524	Åkerbo	0524	Åkerbo	Hel	1961-01-01	15	Utvidgas
+0524	Åkerbo	0580	Linköping	Hel	1971-01-01	10	Upphör; till befintlig
+0525	Norsholm	0526	Skärblacka	Hel	1963-01-01	10	Upphör; till befintlig
+0526	Skärblacka	0526	Skärblacka	Hel	1963-01-01	15	Utvidgas
+0526	Skärblacka	0581	Norrköping	Hel	1971-01-01	10	Upphör; till befintlig
+0527	Hällestad	0562	Finspång	Hel	1971-01-01	10	Upphör; till befintlig
+0528	Hävla	0562	Finspång	Hel	1971-01-01	10	Upphör; till befintlig
+0529	Kvillinge	0581	Norrköping	Hel	1971-01-01	10	Upphör; till befintlig
+0530	Kolmården	0581	Norrköping	Hel	1971-01-01	10	Upphör; till befintlig
+0531	Västra Vikbolandet	0531	Vikbolandet	Hel	1967-01-01	16	Utvidgas och namnändras
+0531	Vikbolandet	0581	Norrköping	Hel	1974-01-01	10	Upphör; till befintlig
+0532	Östra Vikbolandet	0531	Vikbolandet	Hel	1967-01-01	10	Upphör; till befintlig
+0533	Stegeborg	0582	Söderköping	Hel	1974-01-01	10	Upphör; till befintlig
+0534	Aspveden	0582	Söderköping	Hel	1971-01-01	10	Upphör; till befintlig
+0535	Ringarum	0563	Valdemarsvik	Hel	1971-01-01	10	Upphör; till befintlig
+0536	Gryt	0563	Valdemarsvik	Hel	1971-01-01	10	Upphör; till befintlig
+0560	Boxholm	0560	Boxholm	Hel	1971-01-01	15	Utvidgas
+0561	Åtvidaberg	0561	Åtvidaberg	Hel	1971-01-01	15	Utvidgas
+0562	Finspång	0562	Finspång	Hel	1971-01-01	15	Utvidgas
+0563	Valdemarsvik	0563	Valdemarsvik	Hel	1971-01-01	15	Utvidgas
+0580	Linköping	0580	Linköping	Hel	1963-01-01	15	Utvidgas
+0580	Linköping	0580	Linköping	Hel	1967-01-01	15	Utvidgas
+0580	Linköping	0580	Linköping	Hel	1971-01-01	15	Utvidgas
+0581	Norrköping	0581	Norrköping	Hel	1971-01-01	15	Utvidgas
+0581	Norrköping	0581	Norrköping	Hel	1974-01-01	15	Utvidgas
+0582	Söderköping	0582	Söderköping	Hel	1971-01-01	15	Utvidgas
+0582	Söderköping	0582	Söderköping	Hel	1974-01-01	15	Utvidgas
+0583	Motala	0583	Motala	Hel	1971-01-01	15	Utvidgas
+0583	Motala	0583	Motala	Hel	1974-01-01	15	Utvidgas
+0583	Motala	0584	Vadstena	Del	1980-01-01	12	Ger del till nybildad
+0584	Vadstena	0584	Vadstena	Hel	1967-01-01	15	Utvidgas
+0584	Vadstena	0584	Vadstena	Hel	1971-01-01	15	Utvidgas
+0584	Vadstena	0583	Motala	Hel	1974-01-01	10	Upphör; till befintlig
+0585	Skänninge	0586	Mjölby	Hel	1971-01-01	10	Upphör; till befintlig
+0586	Mjölby	0586	Mjölby	Hel	1971-01-01	15	Utvidgas
+0601	Ingatorp	0686	Eksjö	Hel	1971-01-01	10	Upphör; till befintlig
+0602	Höreda	0686	Eksjö	Hel	1971-01-01	10	Upphör; till befintlig
+0603	Solberga	0682	Nässjö	Hel	1971-01-01	10	Upphör; till befintlig
+0604	Bredestad	0604	Aneby	Hel	1967-01-01	16	Utvidgas och namnändras
+0605	Hullaryd	0604	Aneby	Hel	1967-01-01	10	Upphör; till befintlig
+0606	Linderås	0687	Tranås	Hel	1967-01-01	10	Upphör; till befintlig
+0607	Visingsö	0680	Jönköping	Hel	1971-01-01	10	Upphör; till befintlig
+0608	Skärstad	0680	Jönköping	Hel	1971-01-01	10	Upphör; till befintlig
+0609	Lekeryd	0680	Jönköping	Hel	1971-01-01	10	Upphör; till befintlig
+0610	Hakarp	0681	Huskvarna	Hel	1967-01-01	10	Upphör; till befintlig
+0611	Tenhult	0680	Jönköping	Hel	1971-01-01	10	Upphör; till befintlig
+0612	Forserum	0682	Nässjö	Hel	1971-01-01	10	Upphör; till befintlig
+0613	Månsarp	0680	Jönköping	Hel	1971-01-01	10	Upphör; till befintlig
+0614	Bankeryd	0680	Jönköping	Hel	1971-01-01	10	Upphör; till befintlig
+0615	Norra Mo	0680	Jönköping	Hel	1971-01-01	10	Upphör; till befintlig
+0616	Södra Mo	0662	Gislaved	Hel	1974-01-01	10	Upphör; till befintlig
+0618	Anderstorp	0666	Anderstorp	Hel	1953-01-01	23	Kodändrad; annat än 20-22
+0619	Villstad	0662	Gislaved	Hel	1974-01-01	10	Upphör; till befintlig
+0620	Burseryd	0662	Gislaved	Hel	1974-01-01	10	Upphör; till befintlig
+0621	Hylte	1315	Hylte	Hel	1974-01-01	10	Upphör; till befintlig
+0622	Unnaryd	0662	Gislaved	Del	1974-01-01	10	Upphör; till befintlig
+0622	Unnaryd	1315	Hylte	Del	1974-01-01	10	Upphör; till befintlig
+0623	Reftele	0662	Gislaved	Hel	1974-01-01	10	Upphör; till befintlig
+0624	Bredaryd	0683	Värnamo	Hel	1971-01-01	10	Upphör; till befintlig
+0625	Forsheda	0683	Värnamo	Del	1971-01-01	10	Upphör; till befintlig
+0625	Forsheda	0781	Ljungby	Del	1971-01-01	10	Upphör; till befintlig
+0626	Bor	0683	Värnamo	Hel	1971-01-01	10	Upphör; till befintlig
+0627	Rydaholm	0683	Värnamo	Hel	1971-01-01	10	Upphör; till befintlig
+0628	Klevshult	0665	Vaggeryd	Del	1971-01-01	10	Upphör; till befintlig
+0628	Klevshult	0683	Värnamo	Del	1971-01-01	10	Upphör; till befintlig
+0630	Vrigstad	0665	Vaggeryd	Del	1971-01-01	10	Upphör; till befintlig
+0630	Vrigstad	0683	Värnamo	Del	1971-01-01	10	Upphör; till befintlig
+0630	Vrigstad	0684	Sävsjö	Del	1971-01-01	10	Upphör; till befintlig
+0631	Malmbäck	0682	Nässjö	Hel	1971-01-01	10	Upphör; till befintlig
+0632	Norra Sandsjö	0682	Nässjö	Hel	1971-01-01	10	Upphör; till befintlig
+0633	Hjälmseryd	0684	Sävsjö	Hel	1974-01-01	10	Upphör; till befintlig
+0634	Bäckaby	0684	Sävsjö	Del	1971-01-01	10	Upphör; till befintlig
+0634	Bäckaby	0685	Vetlanda	Del	1971-01-01	10	Upphör; till befintlig
+0635	Korsberga	0685	Vetlanda	Hel	1971-01-01	10	Upphör; till befintlig
+0636	Nye	0685	Vetlanda	Hel	1971-01-01	10	Upphör; till befintlig
+0637	Alseda	0685	Vetlanda	Hel	1971-01-01	10	Upphör; till befintlig
+0638	Vetlanda landskommun	0685	Vetlanda	Hel	1971-01-01	10	Upphör; till befintlig
+0639	Björkö	0685	Vetlanda	Hel	1971-01-01	10	Upphör; till befintlig
+0640	Lannaskede	0685	Vetlanda	Hel	1971-01-01	10	Upphör; till befintlig
+0660	Mariannelund	0686	Eksjö	Hel	1971-01-01	10	Upphör; till befintlig
+0661	Norrahammar	0680	Jönköping	Hel	1971-01-01	10	Upphör; till befintlig
+0662	Gislaved	0662	Gislaved	Hel	1974-01-01	15	Utvidgas
+0663	Skillingaryd	0665	Vaggeryd	Hel	1971-01-01	10	Upphör; till befintlig
+0664	Bodafors	0682	Nässjö	Hel	1971-01-01	10	Upphör; till befintlig
+0665	Vaggeryd	0665	Vaggeryd	Hel	1971-01-01	15	Utvidgas
+0666	Anderstorp	0662	Gislaved	Hel	1974-01-01	10	Upphör; till befintlig
+0680	Jönköping	0680	Jönköping	Hel	1971-01-01	15	Utvidgas
+0681	Huskvarna	0681	Huskvarna	Hel	1967-01-01	15	Utvidgas
+0681	Huskvarna	0680	Jönköping	Hel	1971-01-01	10	Upphör; till befintlig
+0682	Nässjö	0682	Nässjö	Hel	1971-01-01	15	Utvidgas
+0683	Värnamo	0683	Värnamo	Hel	1971-01-01	15	Utvidgas
+0684	Sävsjö	0684	Sävsjö	Hel	1971-01-01	15	Utvidgas
+0684	Sävsjö	0684	Sävsjö	Hel	1974-01-01	15	Utvidgas
+0685	Vetlanda	0685	Vetlanda	Hel	1971-01-01	15	Utvidgas
+0686	Eksjö	0686	Eksjö	Hel	1971-01-01	15	Utvidgas
+0687	Tranås	0687	Tranås	Hel	1967-01-01	15	Utvidgas
+0688	Gränna	0680	Jönköping	Hel	1971-01-01	10	Upphör; till befintlig
+0701	Åseda landskommun	0760	Åseda	Hel	1965-01-01	10	Upphör; till befintlig
+0702	Nottebäck	0760	Uppvidinge	Hel	1971-01-01	10	Upphör; till befintlig
+0703	Braås	0780	Växjö	Hel	1971-01-01	10	Upphör; till befintlig
+0704	Lenhovda	0768	Lenhovda	Hel	1957-01-01	23	Kodändrad; annat än 20-22
+0705	Älghult	0760	Uppvidinge	Hel	1971-01-01	10	Upphör; till befintlig
+0706	Hälleberga	0881	Nybro	Hel	1969-01-01	10	Upphör; till befintlig
+0707	Ekeberga	0761	Lessebo	Hel	1971-01-01	10	Upphör; till befintlig
+0708	Algutsboda	0862	Emmaboda	Hel	1969-01-01	10	Upphör; till befintlig
+0709	Älmeboda	0763	Tingsryd	Del	1971-01-01	10	Upphör; till befintlig
+0709	Älmeboda	0862	Emmaboda	Del	1971-01-01	10	Upphör; till befintlig
+0710	Ljuder	0761	Lessebo	Hel	1971-01-01	10	Upphör; till befintlig
+0711	Östra Torsås	0780	Växjö	Hel	1971-01-01	10	Upphör; till befintlig
+0712	Linneryd	0763	Tingsryd	Del	1971-01-01	10	Upphör; till befintlig
+0712	Linneryd	0780	Växjö	Del	1971-01-01	10	Upphör; till befintlig
+0713	Södra Sandsjö	0763	Tingsryd	Hel	1971-01-01	10	Upphör; till befintlig
+0714	Väckelsång	0763	Tingsryd	Del	1971-01-01	10	Upphör; till befintlig
+0714	Väckelsång	0780	Växjö	Del	1971-01-01	10	Upphör; till befintlig
+0715	Urshult	0763	Tingsryd	Hel	1971-01-01	10	Upphör; till befintlig
+0716	Almundsryd	0769	Almundsryd	Hel	1958-01-01	23	Kodändrad; annat än 20-22
+0717	Mellersta Kinnevald	0780	Växjö	Hel	1971-01-01	10	Upphör; till befintlig
+0718	Bergunda	0780	Växjö	Hel	1971-01-01	10	Upphör; till befintlig
+0719	Rottne	0780	Växjö	Hel	1971-01-01	10	Upphör; till befintlig
+0720	Lammhult	0780	Växjö	Hel	1971-01-01	10	Upphör; till befintlig
+0721	Moheda	0764	Alvesta	Del	1971-01-01	10	Upphör; till befintlig
+0721	Moheda	0780	Växjö	Del	1971-01-01	10	Upphör; till befintlig
+0722	Hjortsberga	0764	Alvesta	Hel	1963-01-01	10	Upphör; till befintlig
+0723	Vislanda	0764	Alvesta	Hel	1971-01-01	10	Upphör; till befintlig
+0724	Skatelöv	0764	Alvesta	Hel	1971-01-01	10	Upphör; till befintlig
+0725	Västra Torsås	0764	Alvesta	Hel	1971-01-01	10	Upphör; till befintlig
+0726	Virestad	0765	Älmhult	Hel	1971-01-01	10	Upphör; till befintlig
+0727	Stenbrohult	0765	Älmhult	Hel	1971-01-01	10	Upphör; till befintlig
+0728	Ryssby	0781	Ljungby	Hel	1971-01-01	10	Upphör; till befintlig
+0729	Hamneda	0781	Ljungby	Hel	1971-01-01	10	Upphör; till befintlig
+0730	Berga	0781	Ljungby	Hel	1971-01-01	10	Upphör; till befintlig
+0731	Annerstad	0781	Ljungby	Hel	1971-01-01	10	Upphör; till befintlig
+0732	Lidhult	0781	Ljungby	Hel	1971-01-01	10	Upphör; till befintlig
+0733	Göteryd	0765	Älmhult	Hel	1971-01-01	10	Upphör; till befintlig
+0734	Markaryd landskommun	0767	Markaryd	Hel	1960-01-01	10	Upphör; till befintlig
+0760	Åseda	0760	Åseda	Hel	1965-01-01	15	Utvidgas
+0760	Åseda	0760	Uppvidinge	Hel	1971-01-01	16	Utvidgas och namnändras
+0761	Lessebo	0761	Lessebo	Hel	1971-01-01	15	Utvidgas
+0762	Hovmantorp	0761	Lessebo	Del	1971-01-01	10	Upphör; till befintlig
+0762	Hovmantorp	0780	Växjö	Del	1971-01-01	10	Upphör; till befintlig
+0763	Tingsryd	0763	Tingsryd	Hel	1971-01-01	15	Utvidgas
+0764	Alvesta	0764	Alvesta	Hel	1963-01-01	15	Utvidgas
+0764	Alvesta	0764	Alvesta	Hel	1971-01-01	15	Utvidgas
+0764	Alvesta	0764	Alvesta	Hel	2006-01-01	15	Utvidgas
+0765	Älmhult	0765	Älmhult	Hel	1971-01-01	15	Utvidgas
+0766	Traryd	0767	Markaryd	Hel	1971-01-01	10	Upphör; till befintlig
+0767	Markaryd	0767	Markaryd	Hel	1960-01-01	15	Utvidgas
+0767	Markaryd	0767	Markaryd	Hel	1971-01-01	15	Utvidgas
+0768	Lenhovda	0760	Uppvidinge	Hel	1971-01-01	10	Upphör; till befintlig
+0769	Almundsryd	0769	Ryd	Hel	1967-01-01	40	Namnändrad (ej kodändrad)
+0769	Ryd	0763	Tingsryd	Del	1971-01-01	10	Upphör; till befintlig
+0769	Ryd	0765	Älmhult	Del	1971-01-01	10	Upphör; till befintlig
+0780	Växjö	0780	Växjö	Hel	1971-01-01	15	Utvidgas
+0780	Växjö	0764	Alvesta	Del	2006-01-01	14	Ger del/delar till befintlig
+0781	Ljungby	0781	Ljungby	Hel	1971-01-01	15	Utvidgas
+0801	Uknadalen	0561	Åtvidaberg	Del	1971-01-01	10	Upphör; till befintlig
+0801	Uknadalen	0883	Västervik	Del	1971-01-01	10	Upphör; till befintlig
+0802	Överum	0883	Västervik	Hel	1971-01-01	10	Upphör; till befintlig
+0803	Tjust-Ed	0563	Valdemarsvik	Del	1971-01-01	10	Upphör; till befintlig
+0803	Tjust-Ed	0883	Västervik	Del	1971-01-01	10	Upphör; till befintlig
+0804	Loftahammar	0883	Västervik	Hel	1971-01-01	10	Upphör; till befintlig
+0805	Gamleby	0883	Västervik	Hel	1971-01-01	10	Upphör; till befintlig
+0806	Hallingeberg	0883	Västervik	Hel	1971-01-01	10	Upphör; till befintlig
+0807	Gladhammar	0883	Västervik	Hel	1967-01-01	10	Upphör; till befintlig
+0808	Hjorted	0883	Västervik	Hel	1971-01-01	10	Upphör; till befintlig
+0809	Locknevi	0883	Västervik	Del	1971-01-01	10	Upphör; till befintlig
+0809	Locknevi	0884	Vimmerby	Del	1971-01-01	10	Upphör; till befintlig
+0810	Södra Vi	0884	Vimmerby	Hel	1971-01-01	10	Upphör; till befintlig
+0811	Sevede	0884	Vimmerby	Hel	1971-01-01	10	Upphör; till befintlig
+0812	Tuna	0884	Vimmerby	Hel	1971-01-01	10	Upphör; till befintlig
+0813	Misterhult	0882	Oskarshamn	Hel	1967-01-01	10	Upphör; till befintlig
+0814	Kristdala	0882	Oskarshamn	Hel	1967-01-01	10	Upphör; till befintlig
+0815	Vena	0860	Hultsfred	Hel	1971-01-01	10	Upphör; till befintlig
+0816	Lönneberga	0860	Hultsfred	Hel	1969-01-01	10	Upphör; till befintlig
+0817	Målilla	0860	Hultsfred	Hel	1969-01-01	10	Upphör; till befintlig
+0818	Virserum	0863	Virserum	Hel	1956-01-01	23	Kodändrad; annat än 20-22
+0819	Mörlunda	0860	Hultsfred	Hel	1971-01-01	10	Upphör; till befintlig
+0820	Fagerhult	0821	Högsby	Hel	1969-01-01	10	Upphör; till befintlig
+0821	Högsby	0821	Högsby	Hel	1969-01-01	15	Utvidgas
+0822	Fliseryd	0861	Mönsterås	Hel	1974-01-01	10	Upphör; till befintlig
+0823	Döderhult	0882	Oskarshamn	Hel	1967-01-01	10	Upphör; till befintlig
+0824	Ålem	0861	Mönsterås	Hel	1974-01-01	10	Upphör; till befintlig
+0825	Alsterbro	0881	Nybro	Hel	1969-01-01	10	Upphör; till befintlig
+0826	Ryssby	0880	Kalmar	Hel	1971-01-01	10	Upphör; till befintlig
+0827	Läckeby	0880	Kalmar	Hel	1971-01-01	10	Upphör; till befintlig
+0828	Dörby	0880	Kalmar	Hel	1965-01-01	10	Upphör; till befintlig
+0829	Ljungbyholm	0880	Kalmar	Hel	1971-01-01	10	Upphör; till befintlig
+0830	Södermöre	0880	Kalmar	Hel	1971-01-01	10	Upphör; till befintlig
+0831	Mortorp	0880	Kalmar	Hel	1971-01-01	10	Upphör; till befintlig
+0832	Madesjö	0881	Nybro	Hel	1969-01-01	10	Upphör; till befintlig
+0833	Vissefjärda	0862	Emmaboda	Hel	1969-01-01	10	Upphör; till befintlig
+0834	Torsås	0834	Torsås	Hel	1971-01-01	15	Utvidgas
+0835	Söderåkra	0834	Torsås	Hel	1971-01-01	10	Upphör; till befintlig
+0836	Ölands-Åkerbo	0885	Borgholm	Hel	1974-01-01	10	Upphör; till befintlig
+0837	Köpingsvik	0885	Borgholm	Hel	1969-01-01	10	Upphör; till befintlig
+0838	Gärdslösa	0885	Borgholm	Hel	1969-01-01	10	Upphör; till befintlig
+0839	Torslunda	0840	Mörbylånga	Hel	1974-01-01	10	Upphör; till befintlig
+0840	Mörbylånga	0840	Mörbylånga	Hel	1967-01-01	15	Utvidgas
+0840	Mörbylånga	0840	Mörbylånga	Hel	1974-01-01	15	Utvidgas
+0841	Ottenby	0840	Mörbylånga	Hel	1967-01-01	10	Upphör; till befintlig
+0860	Hultsfred	0860	Hultsfred	Hel	1969-01-01	15	Utvidgas
+0860	Hultsfred	0860	Hultsfred	Hel	1971-01-01	15	Utvidgas
+0861	Mönsterås	0861	Mönsterås	Hel	1974-01-01	15	Utvidgas
+0862	Emmaboda	0862	Emmaboda	Hel	1969-01-01	15	Utvidgas
+0862	Emmaboda	0862	Emmaboda	Hel	1971-01-01	15	Utvidgas
+0863	Virserum	0860	Hultsfred	Hel	1971-01-01	10	Upphör; till befintlig
+0880	Kalmar	0880	Kalmar	Hel	1965-01-01	15	Utvidgas
+0880	Kalmar	0880	Kalmar	Hel	1971-01-01	15	Utvidgas
+0881	Nybro	0881	Nybro	Hel	1969-01-01	15	Utvidgas
+0882	Oskarshamn	0882	Oskarshamn	Hel	1967-01-01	15	Utvidgas
+0882	Oskarshamn	0883	Västervik	Del	2012-05-01	14	Ger del/delar till befintlig
+0883	Västervik	0883	Västervik	Hel	1967-01-01	15	Utvidgas
+0883	Västervik	0883	Västervik	Hel	1971-01-01	15	Utvidgas
+0883	Västervik	0883	Västervik	Hel	2012-05-01	15	Utvidgas
+0884	Vimmerby	0884	Vimmerby	Hel	1971-01-01	15	Utvidgas
+0885	Borgholm	0885	Borgholm	Hel	1969-01-01	15	Utvidgas
+0885	Borgholm	0885	Borgholm	Hel	1974-01-01	15	Utvidgas
+0901	Fårösund	0980	Gotland	Hel	1971-01-01	10	Upphör; till befintlig
+0902	Lärbro	0980	Gotland	Hel	1971-01-01	10	Upphör; till befintlig
+0903	Tingstäde	0980	Gotland	Hel	1971-01-01	10	Upphör; till befintlig
+0904	Dalhem	0980	Gotland	Hel	1971-01-01	10	Upphör; till befintlig
+0905	Romakloster	0980	Gotland	Hel	1971-01-01	10	Upphör; till befintlig
+0906	Stenkumla	0980	Gotland	Hel	1971-01-01	10	Upphör; till befintlig
+0907	Klintehamn	0980	Gotland	Hel	1971-01-01	10	Upphör; till befintlig
+0908	Ljugarn	0980	Gotland	Hel	1971-01-01	10	Upphör; till befintlig
+0909	Stånga	0980	Gotland	Hel	1971-01-01	10	Upphör; till befintlig
+0910	Hemse	0980	Gotland	Hel	1971-01-01	10	Upphör; till befintlig
+0911	Havdhem	0980	Gotland	Hel	1971-01-01	10	Upphör; till befintlig
+0912	Hoburg	0980	Gotland	Hel	1971-01-01	10	Upphör; till befintlig
+0960	Slite	0980	Gotland	Hel	1971-01-01	10	Upphör; till befintlig
+0980	Visby	0980	Gotland	Hel	1971-01-01	16	Utvidgas och namnändras
+1001	Jämjö	1001	Jämjö	Hel	1963-01-01	15	Utvidgas
+1001	Jämjö	1080	Karlskrona	Hel	1974-01-01	10	Upphör; till befintlig
+1002	Sturkö	1001	Jämjö	Hel	1963-01-01	10	Upphör; till befintlig
+1003	Ramdala	1001	Jämjö	Hel	1963-01-01	10	Upphör; till befintlig
+1004	Lyckeby	1080	Karlskrona	Hel	1967-01-01	10	Upphör; till befintlig
+1005	Rödeby	1080	Karlskrona	Hel	1974-01-01	10	Upphör; till befintlig
+1006	Fridlevstad	1006	Fridlevstad	Hel	1963-01-01	15	Utvidgas
+1006	Fridlevstad	1080	Karlskrona	Hel	1974-01-01	10	Upphör; till befintlig
+1007	Nättraby	1080	Karlskrona	Hel	1974-01-01	10	Upphör; till befintlig
+1008	Hasslö	1080	Karlskrona	Hel	1974-01-01	10	Upphör; till befintlig
+1009	Listerby	1081	Ronneby	Hel	1967-01-01	10	Upphör; till befintlig
+1010	Tving	1006	Fridlevstad	Del	1963-01-01	10	Upphör; till befintlig
+1010	Tving	1011	Kallinge	Del	1963-01-01	10	Upphör; till befintlig
+1011	Ronneby landskommun	1011	Kallinge	Hel	1963-01-01	16	Utvidgas och namnändras
+1011	Kallinge	1081	Ronneby	Hel	1967-01-01	10	Upphör; till befintlig
+1012	Hallabro	1011	Kallinge	Hel	1963-01-01	10	Upphör; till befintlig
+1013	Bräkne-Hoby	1081	Ronneby	Hel	1967-01-01	10	Upphör; till befintlig
+1014	Hällaryd	1082	Karlshamn	Hel	1967-01-01	10	Upphör; till befintlig
+1015	Asarum	1082	Karlshamn	Hel	1967-01-01	10	Upphör; till befintlig
+1016	Kyrkhult	1060	Olofström	Hel	1967-01-01	10	Upphör; till befintlig
+1017	Jämshög	1060	Olofström	Hel	1967-01-01	10	Upphör; till befintlig
+1018	Mörrum	1082	Karlshamn	Hel	1967-01-01	10	Upphör; till befintlig
+1019	Gammalstorp	1083	Sölvesborg	Hel	1971-01-01	10	Upphör; till befintlig
+1020	Mjällby	1083	Sölvesborg	Hel	1971-01-01	10	Upphör; till befintlig
+1060	Olofström	1060	Olofström	Hel	1967-01-01	15	Utvidgas
+1080	Karlskrona	1080	Karlskrona	Hel	1967-01-01	15	Utvidgas
+1080	Karlskrona	1080	Karlskrona	Hel	1974-01-01	15	Utvidgas
+1081	Ronneby	1081	Ronneby	Hel	1967-01-01	15	Utvidgas
+1082	Karlshamn	1082	Karlshamn	Hel	1967-01-01	15	Utvidgas
+1083	Sölvesborg	1083	Sölvesborg	Hel	1971-01-01	15	Utvidgas
+1101	Tommarp	1181	Simrishamn	Hel	1969-01-01	10	Upphör; till befintlig
+1102	Hammenhög	1160	Tomelilla	Del	1969-01-01	10	Upphör; till befintlig
+1102	Hammenhög	1181	Simrishamn	Del	1969-01-01	10	Upphör; till befintlig
+1103	Borrby	1181	Simrishamn	Hel	1969-01-01	10	Upphör; till befintlig
+1104	Löderup	1286	Ystad	Hel	1971-01-01	10	Upphör; till befintlig
+1105	Glemmingebro	1160	Tomelilla	Del	1971-01-01	10	Upphör; till befintlig
+1105	Glemmingebro	1286	Ystad	Del	1971-01-01	10	Upphör; till befintlig
+1106	Onslunda	1160	Tomelilla	Hel	1969-01-01	10	Upphör; till befintlig
+1107	Smedstorp	1160	Tomelilla	Hel	1969-01-01	10	Upphör; till befintlig
+1108	Kivik	1181	Simrishamn	Hel	1974-01-01	10	Upphör; till befintlig
+1109	Brösarp	1160	Tomelilla	Del	1969-01-01	10	Upphör; till befintlig
+1109	Brösarp	1181	Simrishamn	Del	1969-01-01	10	Upphör; till befintlig
+1110	Degeberga	1180	Kristianstad	Hel	1974-01-01	10	Upphör; till befintlig
+1111	Everöd	1180	Kristianstad	Hel	1971-01-01	10	Upphör; till befintlig
+1112	Tollarp	1180	Kristianstad	Hel	1974-01-01	10	Upphör; till befintlig
+1113	Träne	1180	Kristianstad	Hel	1967-01-01	10	Upphör; till befintlig
+1114	Vä	1180	Kristianstad	Hel	1967-01-01	10	Upphör; till befintlig
+1115	Fjälkinge	1180	Kristianstad	Hel	1971-01-01	10	Upphör; till befintlig
+1116	Nosaby	1180	Kristianstad	Hel	1967-01-01	10	Upphör; till befintlig
+1117	Ivetofta	1162	Bromölla	Hel	1967-01-01	10	Upphör; till befintlig
+1118	Näsum	1162	Bromölla	Hel	1974-01-01	10	Upphör; till befintlig
+1119	Oppmanna och Vånga	1180	Kristianstad	Hel	1974-01-01	10	Upphör; till befintlig
+1120	Hjärsås	1121	Östra Göinge	Hel	1974-01-01	10	Upphör; till befintlig
+1121	Knislinge	1121	Östra Göinge	Hel	1974-01-01	16	Utvidgas och namnändras
+1121	Östra Göinge	1256	Östra Göinge	Hel	1997-01-01	20	Kodändrad; ny länstillhörighet
+1122	Araslöv	1180	Kristianstad	Hel	1967-01-01	10	Upphör; till befintlig
+1123	Broby	1121	Östra Göinge	Hel	1974-01-01	10	Upphör; till befintlig
+1124	Glimåkra	1121	Östra Göinge	Hel	1974-01-01	10	Upphör; till befintlig
+1125	Örkened	1163	Osby	Hel	1974-01-01	10	Upphör; till befintlig
+1126	Loshult	1163	Osby	Hel	1974-01-01	10	Upphör; till befintlig
+1127	Osby landskommun	1163	Osby	Hel	1962-01-01	10	Upphör; till befintlig
+1128	Hästveda	1183	Hässleholm	Hel	1974-01-01	10	Upphör; till befintlig
+1129	Vittsjö	1163	Osby	Del	1974-01-01	10	Upphör; till befintlig
+1129	Vittsjö	1183	Hässleholm	Del	1974-01-01	10	Upphör; till befintlig
+1130	Bjärnum	1183	Hässleholm	Hel	1974-01-01	10	Upphör; till befintlig
+1131	Stoby	1183	Hässleholm	Hel	1971-01-01	10	Upphör; till befintlig
+1132	Vinslövs landskommun	1132	Vinslöv	Hel	1971-01-01	40	Namnändrad (ej kodändrad)
+1132	Vinslöv	1183	Hässleholm	Hel	1974-01-01	10	Upphör; till befintlig
+1133	Sösdala	1183	Hässleholm	Hel	1974-01-01	10	Upphör; till befintlig
+1134	Tyringe	1183	Hässleholm	Hel	1974-01-01	10	Upphör; till befintlig
+1135	Riseberga	1166	Klippan	Hel	1974-01-01	10	Upphör; till befintlig
+1136	Skånes-Fagerhult	1137	Örkelljunga	Hel	1971-01-01	10	Upphör; till befintlig
+1137	Örkelljunga	1137	Örkelljunga	Hel	1971-01-01	15	Utvidgas
+1137	Örkelljunga	1257	Örkelljunga	Hel	1997-01-01	20	Kodändrad; ny länstillhörighet
+1138	Munka-Ljungby	1182	Ängelholm	Hel	1971-01-01	10	Upphör; till befintlig
+1139	Östra Ljungby	1166	Klippan	Del	1974-01-01	10	Upphör; till befintlig
+1139	Östra Ljungby	1182	Ängelholm	Del	1974-01-01	10	Upphör; till befintlig
+1140	Kvidinge	1167	Åstorp	Hel	1974-01-01	10	Upphör; till befintlig
+1141	Ausås	1182	Ängelholm	Hel	1971-01-01	10	Upphör; till befintlig
+1142	Barkåkra	1182	Ängelholm	Hel	1971-01-01	10	Upphör; till befintlig
+1143	Hjärnarp	1182	Ängelholm	Hel	1971-01-01	10	Upphör; till befintlig
+1144	Förslövsholm	1168	Båstad	Hel	1971-01-01	10	Upphör; till befintlig
+1145	Västra Bjäre	1168	Båstad	Hel	1971-01-01	10	Upphör; till befintlig
+1160	Tomelilla	1160	Tomelilla	Hel	1969-01-01	15	Utvidgas
+1160	Tomelilla	1160	Tomelilla	Hel	1971-01-01	15	Utvidgas
+1160	Tomelilla	1270	Tomelilla	Hel	1997-01-01	20	Kodändrad; ny länstillhörighet
+1161	Åhus	1180	Kristianstad	Hel	1971-01-01	10	Upphör; till befintlig
+1162	Bromölla	1162	Bromölla	Hel	1967-01-01	15	Utvidgas
+1162	Bromölla	1162	Bromölla	Hel	1974-01-01	15	Utvidgas
+1162	Bromölla	1272	Bromölla	Hel	1997-01-01	20	Kodändrad; ny länstillhörighet
+1163	Osby	1163	Osby	Hel	1962-01-01	15	Utvidgas
+1163	Osby	1163	Osby	Hel	1974-01-01	15	Utvidgas
+1163	Osby	1273	Osby	Hel	1997-01-01	20	Kodändrad; ny länstillhörighet
+1164	Vinslövs köping	1164	Vinslövs Centralkommun	Hel	1971-01-01	40	Namnändrad (ej kodändrad)
+1164	Vinslövs Centralkommun	1183	Hässleholm	Hel	1974-01-01	10	Upphör; till befintlig
+1165	Perstorp	1275	Perstorp	Hel	1997-01-01	20	Kodändrad; ny länstillhörighet
+1166	Klippan	1166	Klippan	Hel	1974-01-01	15	Utvidgas
+1166	Klippan	1276	Klippan	Hel	1997-01-01	20	Kodändrad; ny länstillhörighet
+1167	Åstorp	1167	Åstorp	Hel	1974-01-01	15	Utvidgas
+1167	Åstorp	1277	Åstorp	Hel	1997-01-01	20	Kodändrad; ny länstillhörighet
+1168	Båstad	1168	Båstad	Hel	1971-01-01	15	Utvidgas
+1168	Båstad	1278	Båstad	Hel	1997-01-01	20	Kodändrad; ny länstillhörighet
+1180	Kristianstad	1180	Kristianstad	Hel	1967-01-01	15	Utvidgas
+1180	Kristianstad	1180	Kristianstad	Hel	1971-01-01	15	Utvidgas
+1180	Kristianstad	1180	Kristianstad	Hel	1974-01-01	15	Utvidgas
+1180	Kristianstad	1290	Kristianstad	Hel	1997-01-01	20	Kodändrad; ny länstillhörighet
+1181	Simrishamn	1181	Simrishamn	Hel	1969-01-01	15	Utvidgas
+1181	Simrishamn	1181	Simrishamn	Hel	1974-01-01	15	Utvidgas
+1181	Simrishamn	1291	Simrishamn	Hel	1997-01-01	20	Kodändrad; ny länstillhörighet
+1182	Ängelholm	1182	Ängelholm	Hel	1971-01-01	15	Utvidgas
+1182	Ängelholm	1182	Ängelholm	Hel	1974-01-01	15	Utvidgas
+1182	Ängelholm	1292	Ängelholm	Hel	1997-01-01	20	Kodändrad; ny länstillhörighet
+1183	Hässleholm	1183	Hässleholm	Hel	1971-01-01	15	Utvidgas
+1183	Hässleholm	1183	Hässleholm	Hel	1974-01-01	15	Utvidgas
+1183	Hässleholm	1293	Hässleholm	Hel	1997-01-01	20	Kodändrad; ny länstillhörighet
+1201	Brunnby	1284	Höganäs	Hel	1971-01-01	10	Upphör; till befintlig
+1202	Väsby	1284	Höganäs	Hel	1967-01-01	10	Upphör; till befintlig
+1203	Jonstorp	1284	Höganäs	Hel	1971-01-01	10	Upphör; till befintlig
+1204	Kattarp	1283	Helsingborg	Hel	1971-01-01	10	Upphör; till befintlig
+1205	Ödåkra	1283	Helsingborg	Hel	1971-01-01	10	Upphör; till befintlig
+1206	Mörarp	1283	Helsingborg	Hel	1971-01-01	10	Upphör; till befintlig
+1207	Billesholm	1260	Bjuv	Hel	1974-01-01	10	Upphör; till befintlig
+1208	Kågeröd	1214	Svalöv	Hel	1969-01-01	10	Upphör; till befintlig
+1209	Ekeby	1260	Bjuv	Hel	1974-01-01	10	Upphör; till befintlig
+1210	Vallåkra	1283	Helsingborg	Hel	1971-01-01	10	Upphör; till befintlig
+1211	Sankt lbb	1282	Landskrona	Hel	1959-01-01	10	Upphör; till befintlig
+1212	Härslöv	1282	Landskrona	Hel	1974-01-01	10	Upphör; till befintlig
+1213	Rönneberga	1214	Svalöv	Del	1969-01-01	10	Upphör; till befintlig
+1213	Rönneberga	1282	Landskrona	Del	1969-01-01	10	Upphör; till befintlig
+1214	Svalöv	1214	Svalöv	Hel	1969-01-01	15	Utvidgas
+1214	Svalöv	1214	Svalöv	Hel	1971-01-01	15	Utvidgas
+1215	Teckomatorp	1214	Svalöv	Del	1969-01-01	10	Upphör; till befintlig
+1215	Teckomatorp	1261	Kävlinge	Del	1969-01-01	10	Upphör; till befintlig
+1216	Marieholm	1214	Svalöv	Del	1971-01-01	10	Upphör; till befintlig
+1216	Marieholm	1285	Eslöv	Del	1971-01-01	10	Upphör; till befintlig
+1217	Röstånga	1214	Svalöv	Del	1969-01-01	10	Upphör; till befintlig
+1217	Röstånga	1285	Eslöv	Del	1969-01-01	10	Upphör; till befintlig
+1218	Bosarp	1285	Eslöv	Hel	1967-01-01	10	Upphör; till befintlig
+1219	Harrie	1261	Kävlinge	Del	1969-01-01	10	Upphör; till befintlig
+1219	Harrie	1285	Eslöv	Del	1969-01-01	10	Upphör; till befintlig
+1220	Dösjebro	1261	Kävlinge	Del	1967-01-01	10	Upphör; till befintlig
+1220	Dösjebro	1282	Landskrona	Del	1967-01-01	10	Upphör; till befintlig
+1221	Löddeköpinge	1261	Kävlinge	Hel	1974-01-01	10	Upphör; till befintlig
+1223	Flädie	1262	Lomma	Hel	1963-01-01	10	Upphör; till befintlig
+1224	Torn	1281	Lund	Hel	1967-01-01	10	Upphör; till befintlig
+1225	Södra Sandby	1281	Lund	Hel	1974-01-01	10	Upphör; till befintlig
+1226	Dalby	1281	Lund	Hel	1974-01-01	10	Upphör; till befintlig
+1227	Genarp	1281	Lund	Hel	1974-01-01	10	Upphör; till befintlig
+1228	Veberöd	1281	Lund	Hel	1974-01-01	10	Upphör; till befintlig
+1229	Bara	1263	Svedala	Hel	1977-01-01	10	Upphör; till befintlig
+1232	Bunkeflo	1280	Malmö	Hel	1971-01-01	10	Upphör; till befintlig
+1233	Vellinge	1233	Vellinge	Hel	1974-01-01	15	Utvidgas
+1234	Räng	1233	Vellinge	Hel	1974-01-01	10	Upphör; till befintlig
+1235	Skegrie	1287	Trelleborg	Hel	1967-01-01	10	Upphör; till befintlig
+1236	Månstorp	1233	Vellinge	Del	1974-01-01	10	Upphör; till befintlig
+1236	Månstorp	1263	Svedala	Del	1974-01-01	10	Upphör; till befintlig
+1237	Oxie	1280	Malmö	Hel	1967-01-01	10	Upphör; till befintlig
+1238	Alstad	1287	Trelleborg	Hel	1967-01-01	10	Upphör; till befintlig
+1239	Gislöv	1287	Trelleborg	Hel	1967-01-01	10	Upphör; till befintlig
+1240	Klagstorp	1287	Trelleborg	Hel	1967-01-01	10	Upphör; till befintlig
+1241	Anderslöv	1263	Svedala	Del	1967-01-01	10	Upphör; till befintlig
+1241	Anderslöv	1287	Trelleborg	Del	1967-01-01	10	Upphör; till befintlig
+1242	Vemmenhög	1264	Skurup	Hel	1971-01-01	10	Upphör; till befintlig
+1243	Rydsgård	1264	Skurup	Hel	1971-01-01	10	Upphör; till befintlig
+1244	Ljunits	1286	Ystad	Hel	1971-01-01	10	Upphör; till befintlig
+1245	Herrestad	1286	Ystad	Hel	1971-01-01	10	Upphör; till befintlig
+1246	Blentarp	1265	Sjöbo	Hel	1974-01-01	10	Upphör; till befintlig
+1247	Östra Färs	1265	Sjöbo	Hel	1974-01-01	10	Upphör; till befintlig
+1248	Vollsjö	1265	Sjöbo	Hel	1974-01-01	10	Upphör; till befintlig
+1249	Bjärsjölagård	1265	Sjöbo	Del	1974-01-01	10	Upphör; till befintlig
+1249	Bjärsjölagård	1266	Hörby	Del	1974-01-01	10	Upphör; till befintlig
+1250	Långaröd	1266	Hörby	Hel	1969-01-01	10	Upphör; till befintlig
+1251	Östra Frosta	1266	Hörby	Hel	1969-01-01	10	Upphör; till befintlig
+1252	Löberöd	1285	Eslöv	Hel	1971-01-01	10	Upphör; till befintlig
+1253	Skarhult	1285	Eslöv	Hel	1971-01-01	10	Upphör; till befintlig
+1254	Snogeröd	1267	Höör	Del	1969-01-01	10	Upphör; till befintlig
+1254	Snogeröd	1285	Eslöv	Del	1969-01-01	10	Upphör; till befintlig
+1255	Norra Frosta	1267	Höör	Hel	1969-01-01	10	Upphör; till befintlig
+1260	Bjuv	1260	Bjuv	Hel	1974-01-01	15	Utvidgas
+1261	Kävlinge	1261	Kävlinge	Hel	1967-01-01	15	Utvidgas
+1261	Kävlinge	1261	Kävlinge	Hel	1969-01-01	15	Utvidgas
+1261	Kävlinge	1261	Kävlinge	Hel	1974-01-01	15	Utvidgas
+1262	Lomma	1262	Lomma	Hel	1963-01-01	15	Utvidgas
+1263	Svedala	1263	Svedala	Hel	1967-01-01	15	Utvidgas
+1263	Svedala	1263	Svedala	Hel	1974-01-01	15	Utvidgas
+1263	Svedala	1263	Svedala	Hel	1977-01-01	15	Utvidgas
+1264	Skurup	1264	Skurup	Hel	1971-01-01	15	Utvidgas
+1265	Sjöbo	1265	Sjöbo	Hel	1974-01-01	15	Utvidgas
+1266	Hörby	1266	Hörby	Hel	1969-01-01	15	Utvidgas
+1266	Hörby	1266	Hörby	Hel	1974-01-01	15	Utvidgas
+1267	Höör	1267	Höör	Hel	1969-01-01	15	Utvidgas
+1268	Furulund	1261	Kävlinge	Hel	1969-01-01	10	Upphör; till befintlig
+1280	Malmö	1280	Malmö	Hel	1967-01-01	15	Utvidgas
+1280	Malmö	1280	Malmö	Hel	1971-01-01	15	Utvidgas
+1281	Lund	1281	Lund	Hel	1967-01-01	15	Utvidgas
+1281	Lund	1281	Lund	Hel	1974-01-01	15	Utvidgas
+1282	Landskrona	1282	Landskrona	Hel	1959-01-01	15	Utvidgas
+1282	Landskrona	1282	Landskrona	Hel	1967-01-01	15	Utvidgas
+1282	Landskrona	1282	Landskrona	Hel	1969-01-01	15	Utvidgas
+1282	Landskrona	1282	Landskrona	Hel	1974-01-01	15	Utvidgas
+1283	Hälsingborg	1283	Helsingborg	Hel	1971-01-01	16	Utvidgas och namnändras
+1284	Höganäs	1284	Höganäs	Hel	1967-01-01	15	Utvidgas
+1284	Höganäs	1284	Höganäs	Hel	1971-01-01	15	Utvidgas
+1285	Eslöv	1285	Eslöv	Hel	1967-01-01	15	Utvidgas
+1285	Eslöv	1285	Eslöv	Hel	1969-01-01	15	Utvidgas
+1285	Eslöv	1285	Eslöv	Hel	1971-01-01	15	Utvidgas
+1286	Ystad	1286	Ystad	Hel	1971-01-01	15	Utvidgas
+1287	Trelleborg	1287	Trelleborg	Hel	1967-01-01	15	Utvidgas
+1288	Skanör med Falsterbo	1233	Vellinge	Hel	1974-01-01	10	Upphör; till befintlig
+1301	Hishult	1381	Laholm	Hel	1974-01-01	10	Upphör; till befintlig
+1302	Våxtorp	1381	Laholm	Hel	1971-01-01	10	Upphör; till befintlig
+1303	Karup	1168	Båstad	Del	1971-01-01	10	Upphör; till befintlig
+1303	Karup	1381	Laholm	Del	1971-01-01	10	Upphör; till befintlig
+1304	Ränneslöv	1381	Laholm	Hel	1974-01-01	10	Upphör; till befintlig
+1305	Knäred	1381	Laholm	Hel	1974-01-01	10	Upphör; till befintlig
+1306	Laholms landskommun	1381	Laholm	Hel	1971-01-01	10	Upphör; till befintlig
+1307	Veinge	1381	Laholm	Hel	1974-01-01	10	Upphör; till befintlig
+1308	Eldsberga	1380	Halmstad	Hel	1974-01-01	10	Upphör; till befintlig
+1309	Simlåmgsdalen	1380	Halmstad	Hel	1967-01-01	10	Upphör; till befintlig
+1310	Söndrum	1380	Halmstad	Hel	1974-01-01	10	Upphör; till befintlig
+1311	Harplinge	1380	Halmstad	Hel	1974-01-01	10	Upphör; till befintlig
+1312	Getinge	1380	Halmstad	Hel	1974-01-01	10	Upphör; till befintlig
+1313	Kvibille	1380	Halmstad	Hel	1974-01-01	10	Upphör; till befintlig
+1314	Enslöv	1380	Halmstad	Hel	1974-01-01	10	Upphör; till befintlig
+1315	Torup	1315	Hylte	Hel	1974-01-01	16	Utvidgas och namnändras
+1316	Årstad	1382	Falkenberg	Hel	1971-01-01	10	Upphör; till befintlig
+1317	Morup	1382	Falkenberg	Hel	1971-01-01	10	Upphör; till befintlig
+1318	Vinberg	1382	Falkenberg	Hel	1971-01-01	10	Upphör; till befintlig
+1319	Vessigebro	1382	Falkenberg	Hel	1971-01-01	10	Upphör; till befintlig
+1320	Ätran	1382	Falkenberg	Hel	1971-01-01	10	Upphör; till befintlig
+1321	Ullared	1382	Falkenberg	Hel	1971-01-01	10	Upphör; till befintlig
+1322	Himledalen	1383	Varberg	Hel	1971-01-01	10	Upphör; till befintlig
+1323	Tvååker	1383	Varberg	Hel	1971-01-01	10	Upphör; till befintlig
+1324	Träslöv	1383	Varberg	Hel	1967-01-01	10	Upphör; till befintlig
+1325	Lindberga	1383	Varberg	Hel	1971-01-01	10	Upphör; till befintlig
+1326	Veddige	1383	Varberg	Hel	1971-01-01	10	Upphör; till befintlig
+1327	Värö	1383	Varberg	Hel	1971-01-01	10	Upphör; till befintlig
+1328	Löftadalen	1384	Kungsbacka	Hel	1974-01-01	10	Upphör; till befintlig
+1329	Fjärås	1384	Kungsbacka	Hel	1974-01-01	10	Upphör; till befintlig
+1330	Onsala	1384	Kungsbacka	Hel	1974-01-01	10	Upphör; till befintlig
+1331	Särö	1384	Kungsbacka	Hel	1971-01-01	10	Upphör; till befintlig
+1332	Tölö	1384	Kungsbacka	Hel	1969-01-01	10	Upphör; till befintlig
+1333	Lindome	1481	Mölndal	Hel	1971-01-01	10	Upphör; till befintlig
+1360	Oskarström	1380	Halmstad	Hel	1974-01-01	10	Upphör; till befintlig
+1380	Halmstad	1380	Halmstad	Hel	1967-01-01	15	Utvidgas
+1380	Halmstad	1380	Halmstad	Hel	1974-01-01	15	Utvidgas
+1381	Laholm	1381	Laholm	Hel	1971-01-01	15	Utvidgas
+1381	Laholm	1381	Laholm	Hel	1974-01-01	15	Utvidgas
+1382	Falkenberg	1382	Falkenberg	Hel	1971-01-01	15	Utvidgas
+1383	Varberg	1383	Varberg	Hel	1967-01-01	15	Utvidgas
+1383	Varberg	1383	Varberg	Hel	1971-01-01	15	Utvidgas
+1384	Kungsbacka	1384	Kungsbacka	Hel	1969-01-01	15	Utvidgas
+1384	Kungsbacka	1384	Kungsbacka	Hel	1971-01-01	15	Utvidgas
+1384	Kungsbacka	1384	Kungsbacka	Hel	1974-01-01	15	Utvidgas
+1401	Landvetter	1401	Härryda	Hel	1971-01-01	16	Utvidgas och namnändras
+1403	Råda	1401	Härryda	Hel	1971-01-01	10	Upphör; till befintlig
+1404	Kållered	1481	Mölndal	Hel	1971-01-01	10	Upphör; till befintlig
+1405	Askim	1480	Göteborg	Hel	1974-01-01	10	Upphör; till befintlig
+1406	Styrsö	1480	Göteborg	Hel	1974-01-01	10	Upphör; till befintlig
+1408	Torslanda	1480	Göteborg	Hel	1967-01-01	10	Upphör; till befintlig
+1409	Tuve	1480	Göteborg	Hel	1967-01-01	10	Upphör; till befintlig
+1410	Säve	1480	Göteborg	Hel	1967-01-01	10	Upphör; till befintlig
+1411	Hermansby	1482	Kungälv	Hel	1971-01-01	10	Upphör; till befintlig
+1412	Ytterby	1482	Kungälv	Hel	1971-01-01	10	Upphör; till befintlig
+1413	Romelanda	1482	Kungälv	Hel	1971-01-01	10	Upphör; till befintlig
+1414	Kode	1415	Stenungsund	Del	1971-01-01	10	Upphör; till befintlig
+1414	Kode	1482	Kungälv	Del	1971-01-01	10	Upphör; till befintlig
+1415	Stenungsund	1415	Stenungsund	Hel	1971-01-01	15	Utvidgas
+1416	Inlands Torpe	1562	Lilla Edet	Hel	1971-01-01	10	Upphör; till befintlig
+1417	Ljungskile	1485	Uddevalla	Hel	1971-01-01	10	Upphör; till befintlig
+1418	Forshälla	1485	Uddevalla	Hel	1971-01-01	10	Upphör; till befintlig
+1420	Morlanda	1421	Orust	Hel	1971-01-01	10	Upphör; till befintlig
+1421	Tegneby	1421	Östra Orust	Hel	1962-01-01	16	Utvidgas och namnändras
+1421	Östra Orust	1421	Orust	Hel	1971-01-01	16	Utvidgas och namnändras
+1422	Myckleby	1421	Östra Orust	Hel	1962-01-01	10	Upphör; till befintlig
+1423	Skaftö	1484	Lysekil	Del	1971-01-01	10	Upphör; till befintlig
+1423	Skaftö	1485	Uddevalla	Del	1971-01-01	10	Upphör; till befintlig
+1424	Skredsvik	1485	Uddevalla	Hel	1971-01-01	10	Upphör; till befintlig
+1425	Lane-Ryr	1485	Uddevalla	Hel	1971-01-01	10	Upphör; till befintlig
+1426	Smögen	1427	Sotenäs	Hel	1974-01-01	10	Upphör; till befintlig
+1427	Södra Sotenäs	1427	Sotenäs	Hel	1974-01-01	16	Utvidgas och namnändras
+1428	Tossene	1427	Sotenäs	Hel	1974-01-01	10	Upphör; till befintlig
+1429	Stångenäs	1484	Lysekil	Hel	1971-01-01	10	Upphör; till befintlig
+1430	Munkedal	1430	Munkedal	Hel	1967-01-01	15	Utvidgas
+1430	Munkedal	1430	Munkedal	Hel	1974-01-01	15	Utvidgas
+1431	Svarteborg	1430	Munkedal	Hel	1974-01-01	10	Upphör; till befintlig
+1432	Sörbygden	1430	Munkedal	Hel	1974-01-01	10	Upphör; till befintlig
+1433	Bullaren	1435	Tanum	Hel	1971-01-01	10	Upphör; till befintlig
+1434	Kville	1435	Tanum	Hel	1971-01-01	10	Upphör; till befintlig
+1435	Tanum	1435	Tanum	Hel	1971-01-01	15	Utvidgas
+1436	Tjärnö	1486	Strömstad	Hel	1967-01-01	10	Upphör; till befintlig
+1437	Vette	1486	Strömstad	Hel	1967-01-01	10	Upphör; till befintlig
+1480	Göteborg	1480	Göteborg	Hel	1967-01-01	15	Utvidgas
+1480	Göteborg	1480	Göteborg	Hel	1974-01-01	15	Utvidgas
+1481	Mölndal	1481	Mölndal	Hel	1971-01-01	15	Utvidgas
+1482	Kungälv	1482	Kungälv	Hel	1971-01-01	15	Utvidgas
+1483	Marstrand	1482	Kungälv	Hel	1971-01-01	10	Upphör; till befintlig
+1484	Lysekil	1484	Lysekil	Hel	1971-01-01	15	Utvidgas
+1485	Uddevalla	1485	Uddevalla	Hel	1971-01-01	15	Utvidgas
+1486	Strömstad	1486	Strömstad	Hel	1967-01-01	15	Utvidgas
+1501	Tössbo	1585	Åmål	Hel	1971-01-01	10	Upphör; till befintlig
+1502	Lelång	1560	Bengtsfors	Hel	1971-01-01	10	Upphör; till befintlig
+1503	Steneby	1560	Bengtsfors	Hel	1971-01-01	10	Upphör; till befintlig
+1504	Dals-Ed	1438	Dals-Ed	Hel	1998-01-01	20	Kodändrad; ny länstillhörighet
+1505	Bäckefors	1560	Bengtsfors	Hel	1971-01-01	10	Upphör; till befintlig
+1506	Högsäter	1507	Färgelanda	Hel	1974-01-01	10	Upphör; till befintlig
+1507	Färgelanda	1507	Färgelanda	Hel	1967-01-01	15	Utvidgas
+1507	Färgelanda	1507	Färgelanda	Hel	1974-01-01	15	Utvidgas
+1507	Färgelanda	1439	Färgelanda	Hel	1998-01-01	20	Kodändrad; ny länstillhörighet
+1508	Ödeborg	1430	Munkedal	Del	1967-01-01	10	Upphör; till befintlig
+1508	Ödeborg	1507	Färgelanda	Del	1967-01-01	10	Upphör; till befintlig
+1509	Kroppefjäll	1561	Mellerud	Hel	1969-01-01	10	Upphör; till befintlig
+1510	Skållerud	1561	Mellerud	Hel	1969-01-01	10	Upphör; till befintlig
+1511	Bolstad	1561	Mellerud	Hel	1969-01-01	10	Upphör; till befintlig
+1512	Brålanda	1580	Vänersborg	Hel	1974-01-01	10	Upphör; till befintlig
+1513	Frändefors	1580	Vänersborg	Hel	1974-01-01	10	Upphör; till befintlig
+1514	Västra Tunhem	1580	Vänersborg	Hel	1974-01-01	10	Upphör; till befintlig
+1515	Södra Väne	1581	Trollhättan	Hel	1967-01-01	10	Upphör; till befintlig
+1516	Bjärke	1581	Trollhättan	Del	1974-01-01	10	Upphör; till befintlig
+1516	Bjärke	1582	Alingsås	Del	1974-01-01	10	Upphör; till befintlig
+1517	Flundre	1562	Lilla Edet	Del	1971-01-01	10	Upphör; till befintlig
+1517	Flundre	1581	Trollhättan	Del	1971-01-01	10	Upphör; till befintlig
+1518	Lödöse	1562	Lilla Edet	Hel	1971-01-01	10	Upphör; till befintlig
+1519	Skepplanda	1521	Ale	Hel	1974-01-01	10	Upphör; till befintlig
+1520	Starrkärr	1521	Ale	Hel	1974-01-01	10	Upphör; till befintlig
+1521	Nödinge	1521	Ale	Hel	1974-01-01	16	Utvidgas och namnändras
+1521	Ale	1440	Ale	Hel	1998-01-01	20	Kodändrad; ny länstillhörighet
+1522	Angered	1480	Göteborg	Hel	1967-01-01	10	Upphör; till befintlig
+1523	Stora Lundby	1524	Lerum	Hel	1969-01-01	10	Upphör; till befintlig
+1524	Lerum	1524	Lerum	Hel	1969-01-01	15	Utvidgas
+1524	Lerum	1441	Lerum	Hel	1998-01-01	20	Kodändrad; ny länstillhörighet
+1525	Skallsjö	1524	Lerum	Hel	1969-01-01	10	Upphör; till befintlig
+1526	Hemsjö	1582	Alingsås	Hel	1974-01-01	10	Upphör; till befintlig
+1527	Vårgårda	1442	Vårgårda	Hel	1998-01-01	20	Kodändrad; ny länstillhörighet
+1528	Herrljunga	1566	Herrljunga	Hel	1953-01-01	23	Kodändrad; annat än 20-22
+1529	Gäsene	1566	Herrljunga	Hel	1974-01-01	10	Upphör; till befintlig
+1530	Hökerum	1584	Ulricehamn	Hel	1974-01-01	10	Upphör; till befintlig
+1531	Toarp	1531	Dalsjöfors	Hel	1967-01-01	16	Utvidgas och namnändras
+1531	Dalsjöfors	1531	Dalsjöfors	Hel	1971-01-01	15	Utvidgas
+1531	Dalsjöfors	1583	Borås	Hel	1974-01-01	10	Upphör; till befintlig
+1532	Brämhult	1583	Borås	Hel	1971-01-01	10	Upphör; till befintlig
+1533	Fristad	1583	Borås	Hel	1974-01-01	10	Upphör; till befintlig
+1534	Sandhult	1583	Borås	Hel	1974-01-01	10	Upphör; till befintlig
+1535	Bollebygd	1583	Borås	Hel	1974-01-01	10	Upphör; till befintlig
+1535	Bollebygd	1443	Bollebygd	Hel	1998-01-01	20	Kodändrad; ny länstillhörighet
+1536	Björketorp	1401	Härryda	Hel	1971-01-01	10	Upphör; till befintlig
+1537	Sätila	1563	Mark	Hel	1971-01-01	10	Upphör; till befintlig
+1538	Seglora	1538	Viskafors	Hel	1961-01-01	16	Utvidgas och namnändras
+1538	Viskafors	1583	Borås	Hel	1974-01-01	10	Upphör; till befintlig
+1539	Kinnarumma	1538	Viskafors	Hel	1961-01-01	10	Upphör; till befintlig
+1540	Fritsla	1563	Mark	Hel	1971-01-01	10	Upphör; till befintlig
+1541	Örby	1563	Mark	Hel	1971-01-01	10	Upphör; till befintlig
+1542	Västra Mark	1563	Mark	Hel	1971-01-01	10	Upphör; till befintlig
+1543	Horred	1563	Mark	Hel	1971-01-01	10	Upphör; till befintlig
+1544	Kungsäter	1383	Varberg	Hel	1971-01-01	10	Upphör; till befintlig
+1545	Svansjö	1563	Mark	Hel	1971-01-01	10	Upphör; till befintlig
+1546	Högvad	1382	Falkenberg	Del	1971-01-01	10	Upphör; till befintlig
+1546	Högvad	1565	Svenljunga	Del	1971-01-01	10	Upphör; till befintlig
+1547	Kindaholm	1565	Svenljunga	Hel	1971-01-01	10	Upphör; till befintlig
+1548	Axelfors	1565	Svenljunga	Hel	1971-01-01	10	Upphör; till befintlig
+1549	Lysjö	1531	Dalsjöfors	Del	1971-01-01	10	Upphör; till befintlig
+1549	Lysjö	1565	Svenljunga	Del	1971-01-01	10	Upphör; till befintlig
+1550	Länghem	1531	Dalsjöfors	Del	1967-01-01	10	Upphör; till befintlig
+1550	Länghem	1552	Tranemo	Del	1967-01-01	10	Upphör; till befintlig
+1551	Limmared	1552	Tranemo	Hel	1967-01-01	10	Upphör; till befintlig
+1552	Tranemo	1552	Tranemo	Hel	1967-01-01	15	Utvidgas
+1552	Tranemo	1552	Tranemo	Hel	1974-01-01	15	Utvidgas
+1552	Tranemo	1452	Tranemo	Hel	1998-01-01	20	Kodändrad; ny länstillhörighet
+1553	Dalstorp	1552	Tranemo	Hel	1974-01-01	10	Upphör; till befintlig
+1554	Åsunden	1584	Ulricehamn	Hel	1974-01-01	10	Upphör; till befintlig
+1555	Redväg	1584	Ulricehamn	Del	1974-01-01	10	Upphör; till befintlig
+1555	Redväg	1686	Falköping	Del	1974-01-01	10	Upphör; till befintlig
+1560	Bengtsfors	1560	Bengtsfors	Hel	1971-01-01	15	Utvidgas
+1560	Bengtsfors	1460	Bengtsfors	Hel	1998-01-01	20	Kodändrad; ny länstillhörighet
+1561	Mellerud	1561	Mellerud	Hel	1969-01-01	15	Utvidgas
+1561	Mellerud	1461	Mellerud	Hel	1998-01-01	20	Kodändrad; ny länstillhörighet
+1562	Lilla Edet	1562	Lilla Edet	Hel	1971-01-01	15	Utvidgas
+1562	Lilla Edet	1462	Lilla Edet	Hel	1998-01-01	20	Kodändrad; ny länstillhörighet
+1563	Kinna	1563	Mark	Hel	1971-01-01	16	Utvidgas och namnändras
+1563	Mark	1463	Mark	Hel	1998-01-01	20	Kodändrad; ny länstillhörighet
+1564	Skene	1563	Mark	Hel	1971-01-01	10	Upphör; till befintlig
+1565	Svenljunga	1565	Svenljunga	Hel	1971-01-01	15	Utvidgas
+1565	Svenljunga	1465	Svenljunga	Hel	1998-01-01	20	Kodändrad; ny länstillhörighet
+1566	Herrljunga	1566	Herrljunga	Hel	1974-01-01	15	Utvidgas
+1566	Herrljunga	1466	Herrljunga	Hel	1998-01-01	20	Kodändrad; ny länstillhörighet
+1580	Vänersborg	1580	Vänersborg	Hel	1974-01-01	15	Utvidgas
+1580	Vänersborg	1487	Vänersborg	Hel	1998-01-01	20	Kodändrad; ny länstillhörighet
+1581	Trollhättan	1581	Trollhättan	Hel	1967-01-01	15	Utvidgas
+1581	Trollhättan	1581	Trollhättan	Hel	1971-01-01	15	Utvidgas
+1581	Trollhättan	1581	Trollhättan	Hel	1974-01-01	15	Utvidgas
+1581	Trollhättan	1488	Trollhättan	Hel	1998-01-01	20	Kodändrad; ny länstillhörighet
+1582	Alingsås	1582	Alingsås	Hel	1974-01-01	15	Utvidgas
+1582	Alingsås	1489	Alingsås	Hel	1998-01-01	20	Kodändrad; ny länstillhörighet
+1583	Borås	1583	Borås	Hel	1971-01-01	15	Utvidgas
+1583	Borås	1583	Borås	Hel	1974-01-01	15	Utvidgas
+1583	Borås	1535	Bollebygd	Del	1995-01-01	12	Ger del till nybildad
+1583	Borås	1490	Borås	Hel	1998-01-01	20	Kodändrad; ny länstillhörighet
+1584	Ulricehamn	1584	Ulricehamn	Hel	1974-01-01	15	Utvidgas
+1584	Ulricehamn	1491	Ulricehamn	Hel	1998-01-01	20	Kodändrad; ny länstillhörighet
+1585	Åmål	1585	Åmål	Hel	1971-01-01	15	Utvidgas
+1585	Åmål	1492	Åmål	Hel	1998-01-01	20	Kodändrad; ny länstillhörighet
+1601	Tun	1681	Lidköping	Hel	1969-01-01	10	Upphör; till befintlig
+1602	Grästorp	1444	Grästorp	Hel	1998-01-01	20	Kodändrad; ny länstillhörighet
+1603	Essunga	1660	Vara	Hel	1974-01-01	10	Upphör; till befintlig
+1603	Essunga	1445	Essunga	Hel	1998-01-01	20	Kodändrad; ny länstillhörighet
+1604	Vedum	1660	Vara	Hel	1967-01-01	10	Upphör; till befintlig
+1605	Larv	1660	Vara	Hel	1974-01-01	10	Upphör; till befintlig
+1606	Ryda	1660	Vara	Hel	1967-01-01	10	Upphör; till befintlig
+1607	Levene	1660	Vara	Hel	1967-01-01	10	Upphör; till befintlig
+1608	Järpås	1681	Lidköping	Hel	1969-01-01	10	Upphör; till befintlig
+1609	Örslösa	1681	Lidköping	Hel	1969-01-01	10	Upphör; till befintlig
+1610	Norra Kålland	1681	Lidköping	Hel	1969-01-01	10	Upphör; till befintlig
+1611	Kållands-Råda	1681	Lidköping	Hel	1969-01-01	10	Upphör; till befintlig
+1612	Vinninga	1681	Lidköping	Hel	1969-01-01	10	Upphör; till befintlig
+1613	Husaby	1661	Götene	Hel	1967-01-01	10	Upphör; till befintlig
+1614	Kinnekulle	1661	Götene	Hel	1967-01-01	10	Upphör; till befintlig
+1615	Valle	1682	Skara	Hel	1971-01-01	10	Upphör; till befintlig
+1616	Ardala	1682	Skara	Hel	1971-01-01	10	Upphör; till befintlig
+1617	Saleby	1681	Lidköping	Hel	1969-01-01	10	Upphör; till befintlig
+1618	Kvänum	1660	Vara	Hel	1974-01-01	10	Upphör; till befintlig
+1619	Vilske	1686	Falköping	Hel	1974-01-01	10	Upphör; till befintlig
+1620	Frökind	1686	Falköping	Hel	1974-01-01	10	Upphör; till befintlig
+1621	Vartofta	1686	Falköping	Hel	1974-01-01	10	Upphör; till befintlig
+1622	Mullsjö	0642	Mullsjö	Hel	1998-01-01	20	Kodändrad; ny länstillhörighet
+1623	Habo	1623	Habo	Hel	1974-01-01	15	Utvidgas
+1623	Habo	0643	Habo	Hel	1998-01-01	20	Kodändrad; ny länstillhörighet
+1624	Fågelås	1623	Habo	Del	1974-01-01	10	Upphör; till befintlig
+1624	Fågelås	1684	Hjo	Del	1974-01-01	10	Upphör; till befintlig
+1625	Hökensås	1685	Tidaholm	Hel	1974-01-01	10	Upphör; till befintlig
+1626	Fröjered	1684	Hjo	Del	1974-01-01	10	Upphör; till befintlig
+1626	Fröjered	1685	Tidaholm	Del	1974-01-01	10	Upphör; till befintlig
+1627	Dimbo	1685	Tidaholm	Del	1974-01-01	10	Upphör; till befintlig
+1627	Dimbo	1686	Falköping	Del	1974-01-01	10	Upphör; till befintlig
+1628	Stenstorp	1686	Falköping	Hel	1974-01-01	10	Upphör; till befintlig
+1629	Gudhem	1686	Falköping	Hel	1974-01-01	10	Upphör; till befintlig
+1630	Skultorp	1683	Skövde	Hel	1971-01-01	10	Upphör; till befintlig
+1631	Värsås	1683	Skövde	Del	1971-01-01	10	Upphör; till befintlig
+1631	Värsås	1684	Hjo	Del	1971-01-01	10	Upphör; till befintlig
+1632	Binneberg	1683	Skövde	Hel	1971-01-01	10	Upphör; till befintlig
+1633	Timmersdala	1683	Skövde	Hel	1971-01-01	10	Upphör; till befintlig
+1634	Tidan	1683	Skövde	Hel	1971-01-01	10	Upphör; till befintlig
+1635	Moholm	1663	Töreboda	Hel	1971-01-01	10	Upphör; till befintlig
+1636	Mölltorp	1637	Karlsborg	Del	1971-01-01	10	Upphör; till befintlig
+1636	Mölltorp	1662	Tibro	Del	1971-01-01	10	Upphör; till befintlig
+1637	Karlsborg	1637	Karlsborg	Hel	1971-01-01	15	Utvidgas
+1637	Karlsborg	1446	Karlsborg	Hel	1998-01-01	20	Kodändrad; ny länstillhörighet
+1638	Undenäs	1637	Karlsborg	Del	1971-01-01	10	Upphör; till befintlig
+1638	Undenäs	1663	Töreboda	Del	1971-01-01	10	Upphör; till befintlig
+1639	Ullervad	1680	Mariestad	Hel	1971-01-01	10	Upphör; till befintlig
+1640	Lugnås	1680	Mariestad	Hel	1971-01-01	10	Upphör; till befintlig
+1641	Hasslerör	1680	Mariestad	Hel	1971-01-01	10	Upphör; till befintlig
+1642	Lyrestad	1680	Mariestad	Hel	1971-01-01	10	Upphör; till befintlig
+1643	Amnehärad	1643	Gullspång	Hel	1971-01-01	16	Utvidgas och namnändras
+1643	Gullspång	1447	Gullspång	Hel	1998-01-01	20	Kodändrad; ny länstillhörighet
+1644	Hova	1643	Gullspång	Del	1971-01-01	10	Upphör; till befintlig
+1644	Hova	1663	Töreboda	Del	1971-01-01	10	Upphör; till befintlig
+1645	Tiveden	1860	Laxå	Hel	1967-01-01	10	Upphör; till befintlig
+1660	Vara	1660	Vara	Hel	1967-01-01	15	Utvidgas
+1660	Vara	1660	Vara	Hel	1974-01-01	15	Utvidgas
+1660	Vara	1603	Essunga	Del	1983-01-01	12	Ger del till nybildad
+1660	Vara	1470	Vara	Hel	1998-01-01	20	Kodändrad; ny länstillhörighet
+1661	Götene	1661	Götene	Hel	1967-01-01	15	Utvidgas
+1661	Götene	1471	Götene	Hel	1998-01-01	20	Kodändrad; ny länstillhörighet
+1662	Tibro	1662	Tibro	Hel	1971-01-01	15	Utvidgas
+1662	Tibro	1472	Tibro	Hel	1998-01-01	20	Kodändrad; ny länstillhörighet
+1663	Töreboda	1663	Töreboda	Hel	1971-01-01	15	Utvidgas
+1663	Töreboda	1473	Töreboda	Hel	1998-01-01	20	Kodändrad; ny länstillhörighet
+1680	Mariestad	1680	Mariestad	Hel	1971-01-01	15	Utvidgas
+1680	Mariestad	1493	Mariestad	Hel	1998-01-01	20	Kodändrad; ny länstillhörighet
+1681	Lidköping	1681	Lidköping	Hel	1969-01-01	15	Utvidgas
+1681	Lidköping	1494	Lidköping	Hel	1998-01-01	20	Kodändrad; ny länstillhörighet
+1682	Skara	1682	Skara	Hel	1971-01-01	15	Utvidgas
+1682	Skara	1495	Skara	Hel	1998-01-01	20	Kodändrad; ny länstillhörighet
+1683	Skövde	1683	Skövde	Hel	1971-01-01	15	Utvidgas
+1683	Skövde	1496	Skövde	Hel	1998-01-01	20	Kodändrad; ny länstillhörighet
+1684	Hjo	1684	Hjo	Hel	1971-01-01	15	Utvidgas
+1684	Hjo	1684	Hjo	Hel	1974-01-01	15	Utvidgas
+1684	Hjo	1497	Hjo	Hel	1998-01-01	20	Kodändrad; ny länstillhörighet
+1685	Tidaholm	1685	Tidaholm	Hel	1974-01-01	15	Utvidgas
+1685	Tidaholm	1498	Tidaholm	Hel	1998-01-01	20	Kodändrad; ny länstillhörighet
+1686	Falköping	1686	Falköping	Hel	1974-01-01	15	Utvidgas
+1686	Falköping	1499	Falköping	Hel	1998-01-01	20	Kodändrad; ny länstillhörighet
+1701	Visnum	1643	Gullspång	Del	1971-01-01	10	Upphör; till befintlig
+1701	Visnum	1781	Kristinehamn	Del	1971-01-01	10	Upphör; till befintlig
+1702	Väse	1780	Karlstad	Del	1971-01-01	10	Upphör; till befintlig
+1702	Väse	1781	Kristinehamn	Del	1971-01-01	10	Upphör; till befintlig
+1703	Östra Fågelvik	1780	Karlstad	Hel	1967-01-01	10	Upphör; till befintlig
+1704	Ullvättern	1760	Storfors	Hel	1967-01-01	10	Upphör; till befintlig
+1705	Kroppa	1782	Filipstad	Hel	1971-01-01	10	Upphör; till befintlig
+1706	Värmlandsberg	1782	Filipstad	Hel	1971-01-01	10	Upphör; till befintlig
+1707	Rämmen	1782	Filipstad	Hel	1971-01-01	10	Upphör; till befintlig
+1708	Finnskoga-Dalby	1737	Torsby	Hel	1974-01-01	10	Upphör; till befintlig
+1709	Norra Ny	1737	Torsby	Hel	1974-01-01	10	Upphör; till befintlig
+1710	Ekshärad	1783	Hagfors	Hel	1974-01-01	10	Upphör; till befintlig
+1711	Gustav Adolf	1783	Hagfors	Hel	1974-01-01	10	Upphör; till befintlig
+1712	Norra Råda	1783	Hagfors	Hel	1974-01-01	10	Upphör; till befintlig
+1713	Nyed	1780	Karlstad	Hel	1971-01-01	10	Upphör; till befintlig
+1714	Ullerud	1763	Forshaga	Hel	1974-01-01	10	Upphör; till befintlig
+1715	Stora Kil	1715	Kil	Hel	1971-01-01	16	Utvidgas och namnändras
+1716	Grava	1780	Karlstad	Hel	1971-01-01	10	Upphör; till befintlig
+1717	Frykerud	1715	Kil	Hel	1971-01-01	10	Upphör; till befintlig
+1718	Nor	1780	Karlstad	Hel	1971-01-01	10	Upphör; till befintlig
+1719	Ed	1764	Grums	Hel	1969-01-01	10	Upphör; till befintlig
+1720	Värmlandsnäs	1785	Säffle	Hel	1971-01-01	10	Upphör; till befintlig
+1721	Gillberga	1785	Säffle	Hel	1971-01-01	10	Upphör; till befintlig
+1722	Svanskog	1785	Säffle	Hel	1971-01-01	10	Upphör; till befintlig
+1723	Stavnäs	1764	Grums	Del	1971-01-01	10	Upphör; till befintlig
+1723	Stavnäs	1784	Arvika	Del	1971-01-01	10	Upphör; till befintlig
+1724	Glava	1784	Arvika	Hel	1971-01-01	10	Upphör; till befintlig
+1725	Sillerud	1765	Årjäng	Hel	1971-01-01	10	Upphör; till befintlig
+1726	Holmedal	1765	Årjäng	Hel	1971-01-01	10	Upphör; till befintlig
+1727	Töcksmark	1765	Årjäng	Hel	1974-01-01	10	Upphör; till befintlig
+1728	Järnskog	1730	Eda	Hel	1971-01-01	10	Upphör; till befintlig
+1729	Köla	1730	Eda	Hel	1971-01-01	10	Upphör; till befintlig
+1730	Eda	1730	Eda	Hel	1971-01-01	15	Utvidgas
+1731	Gunnarskog	1784	Arvika	Hel	1971-01-01	10	Upphör; till befintlig
+1732	Älgå	1784	Arvika	Hel	1971-01-01	10	Upphör; till befintlig
+1733	Brunskog	1715	Kil	Del	1971-01-01	10	Upphör; till befintlig
+1733	Brunskog	1784	Arvika	Del	1971-01-01	10	Upphör; till befintlig
+1734	Gräsmark	1766	Sunne	Hel	1971-01-01	10	Upphör; till befintlig
+1735	Stora Sunne	1766	Sunne	Hel	1963-01-01	10	Upphör; till befintlig
+1736	Lysvik	1766	Sunne	Hel	1971-01-01	10	Upphör; till befintlig
+1737	Fryksände	1737	Torsby	Hel	1967-01-01	16	Utvidgas och namnändras
+1737	Torsby	1737	Torsby	Hel	1971-01-01	15	Utvidgas
+1737	Torsby	1737	Torsby	Hel	1974-01-01	15	Utvidgas
+1738	Östmark	1737	Torsby	Hel	1971-01-01	10	Upphör; till befintlig
+1739	Vitsand	1737	Torsby	Hel	1967-01-01	10	Upphör; till befintlig
+1760	Storfors	1760	Storfors	Hel	1967-01-01	15	Utvidgas
+1763	Forshaga	1763	Forshaga	Hel	1974-01-01	15	Utvidgas
+1764	Grums	1764	Grums	Hel	1969-01-01	15	Utvidgas
+1764	Grums	1764	Grums	Hel	1971-01-01	15	Utvidgas
+1765	Årjäng	1765	Årjäng	Hel	1971-01-01	15	Utvidgas
+1765	Årjäng	1765	Årjäng	Hel	1974-01-01	15	Utvidgas
+1766	Sunne	1766	Sunne	Hel	1963-01-01	15	Utvidgas
+1766	Sunne	1766	Sunne	Hel	1971-01-01	15	Utvidgas
+1780	Karlstad	1780	Karlstad	Hel	1967-01-01	15	Utvidgas
+1780	Karlstad	1780	Karlstad	Hel	1971-01-01	15	Utvidgas
+1781	Kristinehamn	1781	Kristinehamn	Hel	1971-01-01	15	Utvidgas
+1782	Filipstad	1782	Filipstad	Hel	1971-01-01	15	Utvidgas
+1783	Hagfors	1783	Hagfors	Hel	1974-01-01	15	Utvidgas
+1784	Arvika	1784	Arvika	Hel	1971-01-01	15	Utvidgas
+1785	Säffle	1785	Säffle	Hel	1971-01-01	15	Utvidgas
+1801	Mosjö	1880	Örebro	Hel	1967-01-01	10	Upphör; till befintlig
+1802	Tysslinge	1880	Örebro	Hel	1971-01-01	10	Upphör; till befintlig
+1803	Axberg	1880	Örebro	Hel	1971-01-01	10	Upphör; till befintlig
+1804	Glanshammar	1880	Örebro	Del	1974-01-01	10	Upphör; till befintlig
+1804	Glanshammar	1984	Arboga	Del	1974-01-01	10	Upphör; till befintlig
+1805	Asker	1880	Örebro	Hel	1971-01-01	10	Upphör; till befintlig
+1806	Stora Mellösa	1880	Örebro	Hel	1971-01-01	10	Upphör; till befintlig
+1807	Ekeby och Gällersta	1880	Örebro	Del	1971-01-01	10	Upphör; till befintlig
+1807	Ekeby och Gällersta	1881	Kumla	Del	1971-01-01	10	Upphör; till befintlig
+1808	Sköllersta	1861	Hallsberg	Hel	1971-01-01	10	Upphör; till befintlig
+1809	Lerbäck	1882	Askersund	Hel	1971-01-01	10	Upphör; till befintlig
+1810	Hammar	1882	Askersund	Hel	1971-01-01	10	Upphör; till befintlig
+1811	Viby	1861	Hallsberg	Hel	1965-01-01	10	Upphör; till befintlig
+1812	Hallsbergs landskommun	1861	Hallsberg	Hel	1963-01-01	10	Upphör; till befintlig
+1813	Kumla landskommun	1881	Kumla	Hel	1967-01-01	10	Upphör; till befintlig
+1814	Lekeberg	1814	Lekeberg	Hel	1967-01-01	15	Utvidgas
+1814	Lekeberg	1880	Örebro	Hel	1971-01-01	10	Upphör; till befintlig
+1815	Svartå	1814	Lekeberg	Del	1967-01-01	10	Upphör; till befintlig
+1815	Svartå	1860	Laxå	Del	1967-01-01	10	Upphör; till befintlig
+1815	Svartå	1862	Degerfors	Del	1967-01-01	10	Upphör; till befintlig
+1816	Grythyttan	1863	Hällefors	Hel	1967-01-01	10	Upphör; till befintlig
+1817	Noraskog	1884	Nora	Hel	1965-01-01	10	Upphör; till befintlig
+1818	Linde	1885	Lindesberg	Hel	1969-01-01	10	Upphör; till befintlig
+1819	Näsby	1865	Frövi	Hel	1955-01-01	33	Kod- och namnändrad; annat än 30-32
+1820	Fellingsbro	1885	Lindesberg	Hel	1971-01-01	10	Upphör; till befintlig
+1821	Ramsberg	1885	Lindesberg	Hel	1971-01-01	10	Upphör; till befintlig
+1822	Ljusnarsberg	1864	Ljusnarsberg	Hel	1962-01-01	10	Upphör; till befintlig
+1860	Laxå	1860	Laxå	Hel	1967-01-01	15	Utvidgas
+1861	Hallsberg	1861	Hallsberg	Hel	1963-01-01	15	Utvidgas
+1861	Hallsberg	1861	Hallsberg	Hel	1965-01-01	15	Utvidgas
+1861	Hallsberg	1861	Hallsberg	Hel	1971-01-01	15	Utvidgas
+1862	Degerfors	1862	Degerfors	Hel	1967-01-01	15	Utvidgas
+1863	Hällefors	1863	Hällefors	Hel	1967-01-01	15	Utvidgas
+1864	Kopparberg	1864	Ljusnarsberg	Hel	1962-01-01	16	Utvidgas och namnändras
+1865	Frövi	1885	Lindesberg	Hel	1971-01-01	10	Upphör; till befintlig
+1880	Örebro	1880	Örebro	Hel	1967-01-01	15	Utvidgas
+1880	Örebro	1880	Örebro	Hel	1971-01-01	15	Utvidgas
+1880	Örebro	1880	Örebro	Hel	1974-01-01	15	Utvidgas
+1880	Örebro	1814	Lekeberg	Del	1995-01-01	12	Ger del till nybildad
+1881	Kumla	1881	Kumla	Hel	1967-01-01	15	Utvidgas
+1881	Kumla	1881	Kumla	Hel	1971-01-01	15	Utvidgas
+1882	Askersund	1882	Askersund	Hel	1971-01-01	15	Utvidgas
+1884	Nora	1884	Nora	Hel	1965-01-01	15	Utvidgas
+1885	Lindesberg	1885	Lindesberg	Hel	1969-01-01	15	Utvidgas
+1885	Lindesberg	1885	Lindesberg	Hel	1971-01-01	15	Utvidgas
+1901	Kung Karl	1960	Kungsör	Hel	1971-01-01	10	Upphör; till befintlig
+1902	Medåker	1983	Köping	Del	1971-01-01	10	Upphör; till befintlig
+1902	Medåker	1984	Arboga	Del	1971-01-01	10	Upphör; till befintlig
+1903	Kolsva	1983	Köping	Hel	1971-01-01	10	Upphör; till befintlig
+1905	Munktorp	1983	Köping	Hel	1971-01-01	10	Upphör; till befintlig
+1906	Kolbäck	1961	Hallstahammar	Del	1971-01-01	10	Upphör; till befintlig
+1906	Kolbäck	1980	Västerås	Del	1971-01-01	10	Upphör; till befintlig
+1907	Sura	1907	Surahammar	Hel	1963-01-01	16	Utvidgas och namnändras
+1908	Ramnäs	1907	Surahammar	Hel	1963-01-01	10	Upphör; till befintlig
+1910	Västerfärnebo	1962	Norberg	Del	1971-01-01	10	Upphör; till befintlig
+1910	Västerfärnebo	1981	Sala	Del	1971-01-01	10	Upphör; till befintlig
+1911	Skultuna	1980	Västerås	Hel	1967-01-01	10	Upphör; till befintlig
+1912	Dingtuna	1980	Västerås	Hel	1967-01-01	10	Upphör; till befintlig
+1913	Kungsåra	1980	Västerås	Hel	1967-01-01	10	Upphör; till befintlig
+1914	Tillberga	1980	Västerås	Hel	1967-01-01	10	Upphör; till befintlig
+1915	Fjärdhundra	0381	Enköping	Hel	1971-01-01	10	Upphör; till befintlig
+1916	Vittinge	1917	Heby	Hel	1971-01-01	10	Upphör; till befintlig
+1917	Västerlövsta	1917	Heby	Hel	1971-01-01	16	Utvidgas och namnändras
+1917	Heby	0331	Heby	Hel	2007-01-01	20	Kodändrad; ny länstillhörighet
+1918	Tärna	1981	Sala	Hel	1971-01-01	10	Upphör; till befintlig
+1919	Möklinta	1981	Sala	Hel	1971-01-01	10	Upphör; till befintlig
+1920	Nora	1917	Heby	Hel	1971-01-01	10	Upphör; till befintlig
+1921	Östervåla	1917	Heby	Hel	1971-01-01	10	Upphör; till befintlig
+1960	Kungsör	1960	Kungsör	Hel	1971-01-01	15	Utvidgas
+1961	Hallstahammar	1961	Hallstahammar	Hel	1971-01-01	15	Utvidgas
+1961	Hallstahammar	1980	Västerås	Del	2013-01-01	14	Ger del/delar till befintlig
+1962	Norberg	1962	Norberg	Hel	1971-01-01	15	Utvidgas
+1980	Västerås	1980	Västerås	Hel	1967-01-01	15	Utvidgas
+1980	Västerås	1980	Västerås	Hel	1971-01-01	15	Utvidgas
+1980	Västerås	1980	Västerås	Hel	2013-01-01	15	Utvidgas
+1981	Sala	1981	Sala	Hel	1971-01-01	15	Utvidgas
+1983	Köping	1983	Köping	Hel	1971-01-01	15	Utvidgas
+1984	Arboga	1984	Arboga	Hel	1971-01-01	15	Utvidgas
+1984	Arboga	1984	Arboga	Hel	1974-01-01	15	Utvidgas
+2001	By	2084	Avesta	Hel	1967-01-01	10	Upphör; till befintlig
+2002	Folkärna	2084	Avesta	Hel	1967-01-01	10	Upphör; till befintlig
+2003	Grytnäs	2084	Avesta	Hel	1967-01-01	10	Upphör; till befintlig
+2004	Hedemora landskommun	2083	Hedemora	Hel	1967-01-01	10	Upphör; till befintlig
+2005	Husby	2083	Hedemora	Hel	1967-01-01	10	Upphör; till befintlig
+2006	Stora Skedvi	2082	Säter	Hel	1971-01-01	10	Upphör; till befintlig
+2007	Vika	2080	Falun	Hel	1967-01-01	10	Upphör; till befintlig
+2008	Sundborn	2080	Falun	Hel	1971-01-01	10	Upphör; till befintlig
+2009	Stora Kopparberg	2080	Falun	Hel	1967-01-01	10	Upphör; till befintlig
+2010	Svärdsjö	2080	Falun	Hel	1971-01-01	10	Upphör; till befintlig
+2011	Enviken	2080	Falun	Hel	1971-01-01	10	Upphör; till befintlig
+2012	Stora Tuna	2081	Borlänge	Hel	1971-01-01	10	Upphör; till befintlig
+2013	Gustafs	2082	Säter	Hel	1971-01-01	10	Upphör; till befintlig
+2014	Söderbärke	2061	Smedjebacken	Hel	1974-01-01	10	Upphör; till befintlig
+2015	Norrbärke	2061	Smedjebacken	Hel	1967-01-01	10	Upphör; till befintlig
+2016	Ludvika landskommun	2085	Ludvika	Hel	1963-01-01	10	Upphör; till befintlig
+2017	Grangärde	2085	Ludvika	Hel	1971-01-01	10	Upphör; till befintlig
+2018	Säfsnäs	2085	Ludvika	Hel	1971-01-01	10	Upphör; till befintlig
+2019	Nås	2021	Vansbro	Hel	1971-01-01	10	Upphör; till befintlig
+2020	Floda	2026	Gagnef	Hel	1971-01-01	10	Upphör; till befintlig
+2021	Järna	2021	Vansbro	Hel	1971-01-01	16	Utvidgas och namnändras
+2022	Äppelbo	2021	Vansbro	Hel	1971-01-01	10	Upphör; till befintlig
+2023	Malung	2023	Malung	Hel	1971-01-01	15	Utvidgas
+2023	Malung	2023	Malung-Sälen	Hel	2008-01-01	40	Namnändrad (ej kodändrad)
+2024	Lima	2023	Malung	Hel	1971-01-01	10	Upphör; till befintlig
+2025	Transtrand	2023	Malung	Hel	1971-01-01	10	Upphör; till befintlig
+2026	Gagnef	2026	Gagnef	Hel	1971-01-01	15	Utvidgas
+2027	Ål	2029	Leksand	Hel	1974-01-01	10	Upphör; till befintlig
+2028	Bjursås	2080	Falun	Hel	1971-01-01	10	Upphör; till befintlig
+2029	Leksand	2029	Leksand	Hel	1974-01-01	15	Utvidgas
+2030	Siljansnäs	2029	Leksand	Hel	1974-01-01	10	Upphör; till befintlig
+2031	Rättvik	2031	Rättvik	Hel	1963-01-01	15	Utvidgas
+2031	Rättvik	2031	Rättvik	Hel	1974-01-01	15	Utvidgas
+2032	Boda	2031	Rättvik	Hel	1963-01-01	10	Upphör; till befintlig
+2033	Ore	2031	Rättvik	Hel	1974-01-01	10	Upphör; till befintlig
+2035	Våmhus	2062	Mora	Hel	1971-01-01	10	Upphör; till befintlig
+2036	Mora landskommun	2062	Mora	Hel	1959-01-01	10	Upphör; till befintlig
+2037	Sollerön	2062	Mora	Hel	1971-01-01	10	Upphör; till befintlig
+2038	Venjan	2062	Mora	Hel	1971-01-01	10	Upphör; till befintlig
+2039	Älvdalen	2039	Älvdalen	Hel	1971-01-01	15	Utvidgas
+2040	Särna	2039	Älvdalen	Hel	1971-01-01	10	Upphör; till befintlig
+2041	Idre	2039	Älvdalen	Hel	1971-01-01	10	Upphör; till befintlig
+2060	Krylbo	2084	Avesta	Hel	1967-01-01	10	Upphör; till befintlig
+2061	Smedjebacken	2061	Smedjebacken	Hel	1967-01-01	15	Utvidgas
+2061	Smedjebacken	2061	Smedjebacken	Hel	1974-01-01	15	Utvidgas
+2062	Morastrand	2062	Mora	Hel	1959-01-01	16	Utvidgas och namnändras
+2062	Mora	2062	Mora	Hel	1971-01-01	15	Utvidgas
+2080	Falun	2080	Falun	Hel	1967-01-01	15	Utvidgas
+2080	Falun	2080	Falun	Hel	1971-01-01	15	Utvidgas
+2081	Borlänge	2081	Borlänge	Hel	1971-01-01	15	Utvidgas
+2082	Säter	2082	Säter	Hel	1971-01-01	15	Utvidgas
+2083	Hedemora	2083	Hedemora	Hel	1967-01-01	15	Utvidgas
+2084	Avesta	2084	Avesta	Hel	1967-01-01	15	Utvidgas
+2085	Ludvika	2085	Ludvika	Hel	1963-01-01	15	Utvidgas
+2085	Ludvika	2085	Ludvika	Hel	1971-01-01	15	Utvidgas
+2101	Ockelbo	2101	Ockelbo	Hel	1971-01-01	15	Utvidgas
+2102	Järbo	2181	Sandviken	Hel	1971-01-01	10	Upphör; till befintlig
+2103	Ovansjö	2181	Sandviken	Hel	1971-01-01	10	Upphör; till befintlig
+2104	Hofors	2104	Hofors	Hel	1971-01-01	15	Utvidgas
+2105	Torsåker	2104	Hofors	Hel	1971-01-01	10	Upphör; till befintlig
+2106	Årsunda	2181	Sandviken	Hel	1971-01-01	10	Upphör; till befintlig
+2107	Österfärnebo	2181	Sandviken	Hel	1971-01-01	10	Upphör; till befintlig
+2108	Hedesunda	2180	Gävle	Hel	1969-01-01	10	Upphör; till befintlig
+2109	Valbo	2180	Gävle	Hel	1971-01-01	10	Upphör; till befintlig
+2110	Hille	2180	Gävle	Hel	1969-01-01	10	Upphör; till befintlig
+2111	Hamrånge	2180	Gävle	Hel	1969-01-01	10	Upphör; till befintlig
+2112	Skog	2101	Ockelbo	Del	1971-01-01	10	Upphör; till befintlig
+2112	Skog	2182	Söderhamn	Del	1971-01-01	10	Upphör; till befintlig
+2113	Söderala	2182	Söderhamn	Hel	1971-01-01	10	Upphör; till befintlig
+2114	Rengsjö	2183	Bollnäs	Hel	1974-01-01	10	Upphör; till befintlig
+2115	Norrala	2182	Söderhamn	Hel	1971-01-01	10	Upphör; till befintlig
+2116	Enånger	2117	Iggesund	Hel	1963-01-01	10	Upphör; till befintlig
+2117	Njutånger	2117	Iggesund	Hel	1963-01-01	16	Utvidgas och namnändras
+2117	Iggesund	2184	Hudiksvall	Hel	1971-01-01	10	Upphör; till befintlig
+2118	Hanebo	2183	Bollnäs	Hel	1974-01-01	10	Upphör; till befintlig
+2119	Bollnäs landskommun	2183	Bollnäs	Hel	1959-01-01	10	Upphör; till befintlig
+2120	Alfta	2183	Bollnäs	Hel	1974-01-01	10	Upphör; till befintlig
+2122	Los	2161	Ljusdal	Hel	1971-01-01	10	Upphör; till befintlig
+2123	Färila-Kårböle	2123	Färila	Hel	1954-01-01	40	Namnändrad (ej kodändrad)
+2123	Färila	2161	Ljusdal	Hel	1971-01-01	10	Upphör; till befintlig
+2124	Ramsjö	2161	Ljusdal	Hel	1971-01-01	10	Upphör; till befintlig
+2125	Ljusdals landskommun	2161	Ljusdal	Hel	1963-01-01	10	Upphör; till befintlig
+2126	Järvsö	2161	Ljusdal	Hel	1971-01-01	10	Upphör; till befintlig
+2127	Arbrå	2183	Bollnäs	Hel	1974-01-01	10	Upphör; till befintlig
+2128	Delsbo	2184	Hudiksvall	Hel	1971-01-01	10	Upphör; till befintlig
+2129	Bjuråker	2184	Hudiksvall	Hel	1971-01-01	10	Upphör; till befintlig
+2130	Forsa	2184	Hudiksvall	Hel	1971-01-01	10	Upphör; till befintlig
+2131	Hälsingtuna	2184	Hudiksvall	Hel	1965-01-01	10	Upphör; till befintlig
+2132	Harmånger	2132	Nordanstig	Hel	1974-01-01	16	Utvidgas och namnändras
+2133	Gnarp	2132	Nordanstig	Hel	1974-01-01	10	Upphör; till befintlig
+2134	Bergsjö	2132	Nordanstig	Hel	1974-01-01	10	Upphör; till befintlig
+2135	Hassela	2132	Nordanstig	Hel	1974-01-01	10	Upphör; till befintlig
+2160	Storvik	2181	Sandviken	Hel	1971-01-01	10	Upphör; till befintlig
+2161	Ljusdal	2161	Ljusdal	Hel	1963-01-01	15	Utvidgas
+2161	Ljusdal	2161	Ljusdal	Hel	1971-01-01	15	Utvidgas
+2180	Gävle	2180	Gävle	Hel	1969-01-01	15	Utvidgas
+2180	Gävle	2180	Gävle	Hel	1971-01-01	15	Utvidgas
+2181	Sandviken	2181	Sandviken	Hel	1971-01-01	15	Utvidgas
+2182	Söderhamn	2182	Söderhamn	Hel	1971-01-01	15	Utvidgas
+2183	Bollnäs	2183	Bollnäs	Hel	1959-01-01	15	Utvidgas
+2183	Bollnäs	2183	Bollnäs	Hel	1974-01-01	15	Utvidgas
+2184	Hudiksvall	2184	Hudiksvall	Hel	1965-01-01	15	Utvidgas
+2184	Hudiksvall	2184	Hudiksvall	Hel	1971-01-01	15	Utvidgas
+2201	Haverö	2260	Ånge	Hel	1971-01-01	10	Upphör; till befintlig
+2202	Borgsjö	2260	Ånge	Hel	1971-01-01	10	Upphör; till befintlig
+2203	Torp	2260	Ånge	Hel	1971-01-01	10	Upphör; till befintlig
+2204	Stöde	2281	Sundsvall	Hel	1974-01-01	10	Upphör; till befintlig
+2205	Selånger	2281	Sundsvall	Hel	1965-01-01	10	Upphör; till befintlig
+2206	Tuna	2206	Matfors	Hel	1963-01-01	16	Utvidgas och namnändras
+2206	Matfors	2281	Sundsvall	Hel	1974-01-01	10	Upphör; till befintlig
+2207	Attmar	2206	Matfors	Hel	1963-01-01	10	Upphör; till befintlig
+2208	Njurunda	2281	Sundsvall	Hel	1974-01-01	10	Upphör; till befintlig
+2209	Alnö	2281	Sundsvall	Hel	1965-01-01	10	Upphör; till befintlig
+2210	Indals-Liden	2281	Sundsvall	Hel	1974-01-01	10	Upphör; till befintlig
+2211	Hässjö	2262	Timrå	Hel	1971-01-01	10	Upphör; till befintlig
+2212	Säbrå	2280	Härnösand	Hel	1969-01-01	10	Upphör; till befintlig
+2213	Högsjö	2280	Härnösand	Hel	1969-01-01	10	Upphör; till befintlig
+2214	Noraström	2282	Kramfors	Hel	1974-01-01	10	Upphör; till befintlig
+2215	Nordingrå	2282	Kramfors	Hel	1974-01-01	10	Upphör; till befintlig
+2216	Ullånger	2282	Kramfors	Hel	1974-01-01	10	Upphör; till befintlig
+2217	Bjärtrå	2282	Kramfors	Hel	1974-01-01	10	Upphör; till befintlig
+2218	Boteå	2282	Kramfors	Del	1974-01-01	10	Upphör; till befintlig
+2218	Boteå	2283	Sollefteå	Del	1974-01-01	10	Upphör; till befintlig
+2219	Ytterlännäs	2282	Kramfors	Hel	1974-01-01	10	Upphör; till befintlig
+2220	Långsele	2283	Sollefteå	Hel	1971-01-01	10	Upphör; till befintlig
+2221	Resele	2283	Sollefteå	Hel	1971-01-01	10	Upphör; till befintlig
+2222	Helgum	2283	Sollefteå	Hel	1971-01-01	10	Upphör; till befintlig
+2223	Ramsele	2283	Sollefteå	Hel	1974-01-01	10	Upphör; till befintlig
+2224	Ådals-Liden	2283	Sollefteå	Hel	1971-01-01	10	Upphör; till befintlig
+2225	Junsele	2283	Sollefteå	Hel	1971-01-01	10	Upphör; till befintlig
+2226	Fjällsjö	2226	Fjällsjö	Hel	1967-01-01	15	Utvidgas
+2226	Fjällsjö	2313	Strömsund	Hel	1974-01-01	10	Upphör; till befintlig
+2227	Tåsjö	2226	Fjällsjö	Hel	1967-01-01	10	Upphör; till befintlig
+2228	Anundsjö	2284	Örnsköldsvik	Hel	1971-01-01	10	Upphör; till befintlig
+2229	Nätra	2284	Örnsköldsvik	Hel	1971-01-01	10	Upphör; till befintlig
+2230	Mo	2231	Själevad	Hel	1963-01-01	10	Upphör; till befintlig
+2231	Själevad	2231	Själevad	Hel	1963-01-01	15	Utvidgas
+2231	Själevad	2284	Örnsköldsvik	Hel	1971-01-01	10	Upphör; till befintlig
+2232	Arnäs	2284	Örnsköldsvik	Hel	1963-01-01	10	Upphör; till befintlig
+2233	Grundsunda	2284	Örnsköldsvik	Hel	1971-01-01	10	Upphör; till befintlig
+2234	Gideå	2284	Örnsköldsvik	Hel	1971-01-01	10	Upphör; till befintlig
+2235	Björna	2284	Örnsköldsvik	Hel	1971-01-01	10	Upphör; till befintlig
+2236	Trehörningsjö	2284	Örnsköldsvik	Hel	1971-01-01	10	Upphör; till befintlig
+2260	Ånge	2260	Ånge	Hel	1971-01-01	15	Utvidgas
+2261	Skön	2281	Sundsvall	Hel	1965-01-01	10	Upphör; till befintlig
+2262	Timrå	2262	Timrå	Hel	1971-01-01	15	Utvidgas
+2280	Härnösand	2280	Härnösand	Hel	1969-01-01	15	Utvidgas
+2281	Sundsvall	2281	Sundsvall	Hel	1965-01-01	15	Utvidgas
+2281	Sundsvall	2281	Sundsvall	Hel	1974-01-01	15	Utvidgas
+2282	Kramfors	2282	Kramfors	Hel	1974-01-01	15	Utvidgas
+2283	Sollefteå	2283	Sollefteå	Hel	1971-01-01	15	Utvidgas
+2283	Sollefteå	2283	Sollefteå	Hel	1974-01-01	15	Utvidgas
+2284	Örnsköldsvik	2284	Örnsköldsvik	Hel	1963-01-01	15	Utvidgas
+2284	Örnsköldsvik	2284	Örnsköldsvik	Hel	1971-01-01	15	Utvidgas
+2301	Fors	2303	Ragunda	Hel	1974-01-01	10	Upphör; till befintlig
+2302	Kälarne	2305	Bräcke	Hel	1974-01-01	10	Upphör; till befintlig
+2303	Ragunda	2303	Ragunda	Hel	1974-01-01	15	Utvidgas
+2304	Stugun	2303	Ragunda	Hel	1974-01-01	10	Upphör; till befintlig
+2305	Bräcke	2305	Bräcke	Hel	1974-01-01	15	Utvidgas
+2306	Revsund	2305	Bräcke	Hel	1974-01-01	10	Upphör; till befintlig
+2307	Hackås	2326	Berg	Del	1971-01-01	10	Upphör; till befintlig
+2307	Hackås	2380	Östersund	Del	1971-01-01	10	Upphör; till befintlig
+2308	Brunflo	2380	Östersund	Hel	1971-01-01	10	Upphör; till befintlig
+2309	Rödön	2309	Krokom	Hel	1974-01-01	16	Utvidgas och namnändras
+2310	Lit	2310	Lit	Hel	1963-01-01	15	Utvidgas
+2310	Lit	2380	Östersund	Hel	1971-01-01	10	Upphör; till befintlig
+2311	Häggenås	2310	Lit	Hel	1963-01-01	10	Upphör; till befintlig
+2312	Hammerdal	2313	Strömsund	Hel	1974-01-01	10	Upphör; till befintlig
+2313	Ström	2313	Strömsund	Hel	1974-01-01	16	Utvidgas och namnändras
+2314	Frostviken	2313	Strömsund	Hel	1974-01-01	10	Upphör; till befintlig
+2315	Hotagen	2316	Föllinge	Hel	1969-01-01	10	Upphör; till befintlig
+2316	Föllinge	2316	Föllinge	Hel	1969-01-01	15	Utvidgas
+2316	Föllinge	2309	Krokom	Hel	1974-01-01	10	Upphör; till befintlig
+2317	Offerdal	2309	Krokom	Hel	1974-01-01	10	Upphör; till befintlig
+2318	Alsen	2309	Krokom	Hel	1974-01-01	10	Upphör; till befintlig
+2319	Mörsil	2321	Åre	Hel	1974-01-01	10	Upphör; till befintlig
+2320	Kall	2321	Åre	Hel	1974-01-01	10	Upphör; till befintlig
+2321	Åre	2321	Åre	Hel	1974-01-01	15	Utvidgas
+2322	Undersåker	2321	Åre	Hel	1974-01-01	10	Upphör; till befintlig
+2323	Hallen	2321	Åre	Hel	1974-01-01	10	Upphör; till befintlig
+2324	Oviken	2326	Berg	Hel	1971-01-01	10	Upphör; till befintlig
+2325	Övre Ljungadalen	2326	Berg	Hel	1971-01-01	10	Upphör; till befintlig
+2326	Berg	2326	Berg	Hel	1971-01-01	15	Utvidgas
+2327	Rätan	2326	Berg	Hel	1971-01-01	10	Upphör; till befintlig
+2328	Hede	2361	Härjedalen	Hel	1974-01-01	10	Upphör; till befintlig
+2329	Tännäs	2361	Härjedalen	Hel	1974-01-01	10	Upphör; till befintlig
+2330	Svegs landskommun	2361	Sveg	Hel	1967-01-01	10	Upphör; till befintlig
+2331	Hogdal	2361	Härjedalen	Hel	1974-01-01	10	Upphör; till befintlig
+2332	Lillhärdal	2361	Härjedalen	Hel	1974-01-01	10	Upphör; till befintlig
+2360	Frösö	2380	Östersund	Hel	1971-01-01	10	Upphör; till befintlig
+2361	Sveg	2361	Sveg	Hel	1967-01-01	15	Utvidgas
+2361	Sveg	2361	Härjedalen	Hel	1974-01-01	16	Utvidgas och namnändras
+2380	Östersund	2380	Östersund	Hel	1971-01-01	15	Utvidgas
+2402	Hörnefors	2480	Umeå	Hel	1974-01-01	10	Upphör; till befintlig
+2403	Bjurholm	2460	Vännäs	Hel	1974-01-01	10	Upphör; till befintlig
+2404	Degerfors	2404	Vindeln	Hel	1969-01-01	40	Namnändrad (ej kodändrad)
+2405	Vännäs landskommun	2460	Vännäs	Hel	1971-01-01	10	Upphör; till befintlig
+2406	Umeå landskommun	2480	Umeå	Hel	1965-01-01	10	Upphör; till befintlig
+2407	Sävar	2480	Umeå	Hel	1974-01-01	10	Upphör; till befintlig
+2408	Holmön	2480	Umeå	Hel	1974-01-01	10	Upphör; till befintlig
+2409	Bygdeå	2409	Robertsfors	Hel	1974-01-01	16	Utvidgas och namnändras
+2410	Nysätra	2409	Robertsfors	Hel	1974-01-01	10	Upphör; till befintlig
+2411	Lövånger	2482	Skellefteå	Hel	1974-01-01	10	Upphör; till befintlig
+2412	Burträsk	2482	Skellefteå	Hel	1974-01-01	10	Upphör; till befintlig
+2413	Bureå	2482	Skellefteå	Hel	1967-01-01	10	Upphör; till befintlig
+2414	Skellefteå landskommun	2482	Skellefteå	Hel	1967-01-01	10	Upphör; till befintlig
+2415	Byske	2482	Skellefteå	Hel	1967-01-01	10	Upphör; till befintlig
+2416	Jörn	2482	Skellefteå	Hel	1967-01-01	10	Upphör; till befintlig
+2417	Norsjö	2417	Norsjö	Hel	1974-01-01	15	Utvidgas
+2417	Norsjö	2418	Malå	Del	1983-01-01	12	Ger del till nybildad
+2418	Malå	2417	Norsjö	Hel	1974-01-01	10	Upphör; till befintlig
+2419	Örträsk	2481	Lycksele	Hel	1971-01-01	10	Upphör; till befintlig
+2420	Lycksele landskommun	2481	Lycksele	Hel	1971-01-01	10	Upphör; till befintlig
+2421	Stensele	2421	Storuman	Hel	1971-01-01	16	Utvidgas och namnändras
+2423	Tärna	2421	Storuman	Hel	1971-01-01	10	Upphör; till befintlig
+2424	Vilhelmina landskommun	2462	Vilhelmina	Hel	1965-01-01	10	Upphör; till befintlig
+2425	Dorotea	2463	Åsele	Hel	1974-01-01	10	Upphör; till befintlig
+2426	Åsele	2463	Åsele	Hel	1959-01-01	23	Kodändrad; annat än 20-22
+2427	Fredrika	2463	Åsele	Hel	1974-01-01	10	Upphör; till befintlig
+2460	Vännäs	2460	Vännäs	Hel	1971-01-01	15	Utvidgas
+2460	Vännäs	2460	Vännäs	Hel	1974-01-01	15	Utvidgas
+2460	Vännäs	2403	Bjurholm	Del	1983-01-01	12	Ger del till nybildad
+2461	Holmsund	2480	Umeå	Hel	1974-01-01	10	Upphör; till befintlig
+2462	Vilhelmina	2462	Vilhelmina	Hel	1965-01-01	15	Utvidgas
+2463	Åsele	2463	Åsele	Hel	1974-01-01	15	Utvidgas
+2463	Åsele	2425	Dorotea	Del	1980-01-01	12	Ger del till nybildad
+2480	Umeå	2480	Umeå	Hel	1965-01-01	15	Utvidgas
+2480	Umeå	2480	Umeå	Hel	1974-01-01	15	Utvidgas
+2481	Lycksele	2481	Lycksele	Hel	1971-01-01	15	Utvidgas
+2482	Skellefteå	2482	Skellefteå	Hel	1967-01-01	15	Utvidgas
+2482	Skellefteå	2482	Skellefteå	Hel	1974-01-01	15	Utvidgas
+2501	Hortlax	2581	Piteå	Hel	1967-01-01	10	Upphör; till befintlig
+2502	Piteå landskommun	2581	Piteå	Hel	1967-01-01	10	Upphör; till befintlig
+2503	Norrfjärden	2581	Piteå	Hel	1967-01-01	10	Upphör; till befintlig
+2504	Älvsbyns landskommun	2560	Älvsbyn	Hel	1969-01-01	10	Upphör; till befintlig
+2507	Nederluleå	2580	Luleå	Hel	1969-01-01	10	Upphör; till befintlig
+2508	Överluleå	2582	Boden	Hel	1967-01-01	10	Upphör; till befintlig
+2509	Edefors	2582	Boden	Hel	1971-01-01	10	Upphör; till befintlig
+2511	Råneå	2580	Luleå	Hel	1969-01-01	10	Upphör; till befintlig
+2512	Töre	2514	Kalix	Hel	1967-01-01	10	Upphör; till befintlig
+2514	Nederkalix	2514	Kalix	Hel	1967-01-01	16	Utvidgas och namnändras
+2515	Nedertorneå	2583	Haparanda	Hel	1967-01-01	10	Upphör; till befintlig
+2516	Karl Gustav	2583	Haparanda	Hel	1967-01-01	10	Upphör; till befintlig
+2517	Hietaniemi	2518	Övertorneå	Hel	1969-01-01	10	Upphör; till befintlig
+2518	Övertorneå	2518	Övertorneå	Hel	1969-01-01	15	Utvidgas
+2519	Korpilombolo	2521	Pajala	Hel	1971-01-01	10	Upphör; till befintlig
+2520	Tärendö	2521	Pajala	Hel	1971-01-01	10	Upphör; till befintlig
+2521	Pajala	2521	Pajala	Hel	1971-01-01	15	Utvidgas
+2522	Junosuando	2521	Pajala	Hel	1971-01-01	10	Upphör; till befintlig
+2524	Karesuando	2584	Kiruna	Hel	1971-01-01	10	Upphör; till befintlig
+2560	Älvsbyn	2560	Älvsbyn	Hel	1969-01-01	15	Utvidgas
+2580	Luleå	2580	Luleå	Hel	1969-01-01	15	Utvidgas
+2580	Luleå	2582	Boden	Del	2016-01-01	14	Ger del/delar till befintlig
+2581	Piteå	2581	Piteå	Hel	1967-01-01	15	Utvidgas
+2582	Boden	2582	Boden	Hel	1967-01-01	15	Utvidgas
+2582	Boden	2582	Boden	Hel	1971-01-01	15	Utvidgas
+2582	Boden	2582	Boden	Hel	2016-01-01	15	Utvidgas
+2583	Haparanda	2583	Haparanda	Hel	1967-01-01	15	Utvidgas
+2584	Kiruna	2584	Kiruna	Hel	1971-01-01	15	Utvidgas

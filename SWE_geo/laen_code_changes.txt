@@ -1,0 +1,57 @@
+Gammal kod	Gammalt namn	Ny kod	Nytt namn	Hel/Del	Datum ikraftträdande	Ändringstyp	Ändring
+01	Stockholm stad	01	Stockholm	Hel	1968-01-01	16	Utvidgas och namnändras
+01	Stockholm	01	Stockholm	Hel	1971-01-01	15	Utvidgas
+01	Stockholm	03	Uppsala	Del	1971-01-01	14	Ger del/delar till befintlig
+02	Stockholm	01	Stockholm	Hel	1968-01-01	10	Upphör; till befintlig
+02	Stockholm	02	Stockholm	Hel	1967-01-01	15	Utvidgas
+03	Uppsala	01	Stockholm	Del	1971-01-01	14	Ger del/delar till befintlig
+03	Uppsala	03	Uppsala	Hel	1971-01-01	15	Utvidgas
+03	Uppsala	03	Uppsala	Hel	2007-01-01	15	Utvidgas
+04	Södermanland	01	Stockholm	Del	1971-01-01	14	Ger del/delar till befintlig
+04	Södermanland	02	Stockholm	Del	1967-01-01	14	Ger del/delar till befintlig
+05	Östergötland	05	Östergötland	Hel	1971-01-01	15	Utvidgas
+06	Jönköping	06	Jönköping	Hel	1998-01-01	15	Utvidgas
+06	Jönköping	07	Kronoberg	Del	1971-01-01	14	Ger del/delar till befintlig
+06	Jönköping	13	Halland	Del	1974-01-01	14	Ger del/delar till befintlig
+07	Kronoberg	07	Kronoberg	Hel	1971-01-01	15	Utvidgas
+07	Kronoberg	08	Kalmar	Del	1969-01-01	14	Ger del/delar till befintlig
+07	Kronoberg	08	Kalmar	Del	1971-01-01	14	Ger del/delar till befintlig
+08	Kalmar	05	Östergötland	Del	1971-01-01	14	Ger del/delar till befintlig
+08	Kalmar	08	Kalmar	Hel	1969-01-01	15	Utvidgas
+08	Kalmar	08	Kalmar	Hel	1971-01-01	15	Utvidgas
+11	Kristianstad	11	Kristianstad	Hel	1971-01-01	15	Utvidgas
+11	Kristianstad	12	Malmöhus	Del	1969-01-01	14	Ger del/delar till befintlig
+11	Kristianstad	12	Malmöhus	Del	1971-01-01	14	Ger del/delar till befintlig
+11	Kristianstad	12	Skåne	Hel	1997-01-01	10	Upphör; till befintlig
+12	Malmöhus	12	Malmöhus	Hel	1969-01-01	15	Utvidgas
+12	Malmöhus	12	Malmöhus	Hel	1971-01-01	15	Utvidgas
+12	Malmöhus	12	Skåne	Hel	1997-01-01	16	Utvidgas och namnändras
+12	Skåne	12	Skåne	Hel	1998-01-01	50	Byte av länsbokstav eller motsvarande (ej kod/namnändrad)
+13	Halland	11	Kristianstad	Del	1971-01-01	14	Ger del/delar till befintlig
+13	Halland	13	Halland	Hel	1971-01-01	15	Utvidgas
+13	Halland	13	Halland	Hel	1974-01-01	15	Utvidgas
+13	Halland	14	Göteborgs och Bohus	Del	1971-01-01	14	Ger del/delar till befintlig
+14	Göteborgs och Bohus	14	Göteborgs och Bohus	Hel	1967-01-01	15	Utvidgas
+14	Göteborgs och Bohus	14	Göteborgs och Bohus	Hel	1971-01-01	15	Utvidgas
+14	Göteborgs och Bohus	14	Västra Götaland	Hel	1998-01-01	16	Utvidgas och namnändras
+14	Göteborgs och Bohus	15	Älvsborg	Del	1971-01-01	14	Ger del/delar till befintlig
+15	Älvsborg	13	Halland	Del	1971-01-01	14	Ger del/delar till befintlig
+15	Älvsborg	14	Göteborgs och Bohus	Del	1967-01-01	14	Ger del/delar till befintlig
+15	Älvsborg	14	Göteborgs och Bohus	Del	1971-01-01	14	Ger del/delar till befintlig
+15	Älvsborg	14	Västra Götaland	Hel	1998-01-01	10	Upphör; till befintlig
+15	Älvsborg	15	Älvsborg	Hel	1971-01-01	15	Utvidgas
+15	Älvsborg	16	Skaraborg	Del	1974-01-01	14	Ger del/delar till befintlig
+16	Skaraborg	06	Jönköping	Del	1998-01-01	10	Upphör; till befintlig
+16	Skaraborg	14	Västra Götaland	Del	1998-01-01	10	Upphör; till befintlig
+16	Skaraborg	16	Skaraborg	Hel	1971-01-01	15	Utvidgas
+16	Skaraborg	16	Skaraborg	Hel	1974-01-01	15	Utvidgas
+16	Skaraborg	18	Örebro	Del	1967-01-01	14	Ger del/delar till befintlig
+17	Värmland	16	Skaraborg	Del	1971-01-01	14	Ger del/delar till befintlig
+18	Örebro	18	Örebro	Hel	1967-01-01	15	Utvidgas
+18	Örebro	19	Västmanland	Del	1974-01-01	14	Ger del/delar till befintlig
+19	Västmanland	03	Uppsala	Del	1971-01-01	14	Ger del/delar till befintlig
+19	Västmanland	03	Uppsala	Del	2007-01-01	14	Ger del/delar till befintlig
+19	Västmanland	19	Västmanland	Hel	1974-01-01	15	Utvidgas
+20	Kopparberg	20	Dalarna	Hel	1997-01-01	40	Namnändrad (ej kodändrad)
+22	Västernorrland	23	Jämtland	Del	1974-01-01	14	Ger del/delar till befintlig
+23	Jämtland	23	Jämtland	Hel	1974-01-01	15	Utvidgas
